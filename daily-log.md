@@ -13,3 +13,9 @@ Validate important input on both the client and the server. Browser validation i
 **Topic: Database indexes**
 
 A database index is an auxiliary data structure that helps the database locate rows without scanning an entire table. Indexes can make frequently filtered or joined queries much faster, but they also use storage and add work to inserts, updates, and deletes, so they should be chosen for actual query patterns rather than added to every column.
+
+## 2026-10-27
+
+**Topic: Hash tables and collision handling**
+
+A hash table uses a hash function to map keys to array positions, giving average-case O(1) lookup, insertion, and deletion when keys are distributed well. Because different keys can map to the same position, implementations need a collision strategy such as separate chaining or open addressing. Performance can degrade as the table becomes crowded, which is why implementations typically resize when the load factor grows too high.
