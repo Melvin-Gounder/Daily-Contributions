@@ -19,3 +19,15 @@ A database index is an auxiliary data structure that helps the database locate r
 **Topic: Hash tables and collision handling**
 
 A hash table uses a hash function to map keys to array positions, giving average-case O(1) lookup, insertion, and deletion when keys are distributed well. Because different keys can map to the same position, implementations need a collision strategy such as separate chaining or open addressing. Performance can degrade as the table becomes crowded, which is why implementations typically resize when the load factor grows too high.
+
+## 2026-10-28
+
+**Major contribution: LRU Cache in Java**
+
+Built a complete generic Least Recently Used cache using a `HashMap` plus a doubly linked list, demonstrating how two data structures combine to provide average O(1) lookup, update, recency promotion, and eviction. Added a runnable demonstration, six dependency-free tests, complexity/invariant documentation, and compile/run instructions.
+
+Files:
+- [`projects/2026-10-28-lru-cache/LruCache.java`](projects/2026-10-28-lru-cache/LruCache.java)
+- [`projects/2026-10-28-lru-cache/LruCacheDemo.java`](projects/2026-10-28-lru-cache/LruCacheDemo.java)
+- [`projects/2026-10-28-lru-cache/LruCacheTest.java`](projects/2026-10-28-lru-cache/LruCacheTest.java)
+- [`projects/2026-10-28-lru-cache/README.md`](projects/2026-10-28-lru-cache/README.md)
