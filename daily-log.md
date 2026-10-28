@@ -31,3 +31,15 @@ Files:
 - [`projects/2026-10-28-lru-cache/LruCacheDemo.java`](projects/2026-10-28-lru-cache/LruCacheDemo.java)
 - [`projects/2026-10-28-lru-cache/LruCacheTest.java`](projects/2026-10-28-lru-cache/LruCacheTest.java)
 - [`projects/2026-10-28-lru-cache/README.md`](projects/2026-10-28-lru-cache/README.md)
+
+## 2026-10-29
+
+**Major contribution: Dependency-Aware Task Scheduler in Python**
+
+Built a dependency-free DAG task scheduler using Kahn's topological-sort algorithm. It validates dependencies, detects cycles, produces deterministic execution order, groups independent tasks into parallel-ready stages, and calculates critical depth. Added a runnable CI/CD-style demo, eight unit tests, API examples, complexity analysis, and documentation.
+
+Files:
+- [`projects/2026-10-29-task-scheduler/task_scheduler.py`](projects/2026-10-29-task-scheduler/task_scheduler.py)
+- [`projects/2026-10-29-task-scheduler/demo.py`](projects/2026-10-29-task-scheduler/demo.py)
+- [`projects/2026-10-29-task-scheduler/test_task_scheduler.py`](projects/2026-10-29-task-scheduler/test_task_scheduler.py)
+- [`projects/2026-10-29-task-scheduler/README.md`](projects/2026-10-29-task-scheduler/README.md)
