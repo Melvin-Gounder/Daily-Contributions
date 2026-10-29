@@ -43,3 +43,15 @@ Files:
 - [`projects/2026-10-29-task-scheduler/demo.py`](projects/2026-10-29-task-scheduler/demo.py)
 - [`projects/2026-10-29-task-scheduler/test_task_scheduler.py`](projects/2026-10-29-task-scheduler/test_task_scheduler.py)
 - [`projects/2026-10-29-task-scheduler/README.md`](projects/2026-10-29-task-scheduler/README.md)
+
+## 2026-10-30
+
+**Major contribution: Authentication Security Log Analyzer in Python**
+
+Built a defensive security CLI that parses authentication logs and detects bursts of failed logins per IP using a sliding time window. It validates IPv4/IPv6 addresses, tolerates or strictly rejects malformed input, resets failure state after successful authentication, produces deterministic reports, and uses only the Python standard library. Added a safe sample log, eight unit tests, algorithm/complexity documentation, and security notes.
+
+Files:
+- [`projects/2026-10-30-security-log-analyzer/security_log_analyzer.py`](projects/2026-10-30-security-log-analyzer/security_log_analyzer.py)
+- [`projects/2026-10-30-security-log-analyzer/test_security_log_analyzer.py`](projects/2026-10-30-security-log-analyzer/test_security_log_analyzer.py)
+- [`projects/2026-10-30-security-log-analyzer/sample.log`](projects/2026-10-30-security-log-analyzer/sample.log)
+- [`projects/2026-10-30-security-log-analyzer/README.md`](projects/2026-10-30-security-log-analyzer/README.md)
