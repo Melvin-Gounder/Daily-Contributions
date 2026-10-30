@@ -55,3 +55,14 @@ Files:
 - [`projects/2026-10-30-security-log-analyzer/test_security_log_analyzer.py`](projects/2026-10-30-security-log-analyzer/test_security_log_analyzer.py)
 - [`projects/2026-10-30-security-log-analyzer/sample.log`](projects/2026-10-30-security-log-analyzer/sample.log)
 - [`projects/2026-10-30-security-log-analyzer/README.md`](projects/2026-10-30-security-log-analyzer/README.md)
+
+## 2026-10-31
+
+**Major contribution: SQLite Expense Tracker in Python**
+
+Built a dependency-free expense-tracking CLI backed by a normalized SQLite database. It demonstrates foreign keys, constraints, purpose-built indexes, parameterized queries, atomic transactions, exact integer-cent money storage, `Decimal` input parsing, and grouped monthly reporting. Added eight in-memory integration tests, including month-boundary behavior and SQL-injection-shaped input, plus database-design and complexity documentation.
+
+Files:
+- [`projects/2026-10-31-sqlite-expense-tracker/expense_tracker.py`](projects/2026-10-31-sqlite-expense-tracker/expense_tracker.py)
+- [`projects/2026-10-31-sqlite-expense-tracker/test_expense_tracker.py`](projects/2026-10-31-sqlite-expense-tracker/test_expense_tracker.py)
+- [`projects/2026-10-31-sqlite-expense-tracker/README.md`](projects/2026-10-31-sqlite-expense-tracker/README.md)
