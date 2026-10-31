@@ -66,3 +66,14 @@ Files:
 - [`projects/2026-10-31-sqlite-expense-tracker/expense_tracker.py`](projects/2026-10-31-sqlite-expense-tracker/expense_tracker.py)
 - [`projects/2026-10-31-sqlite-expense-tracker/test_expense_tracker.py`](projects/2026-10-31-sqlite-expense-tracker/test_expense_tracker.py)
 - [`projects/2026-10-31-sqlite-expense-tracker/README.md`](projects/2026-10-31-sqlite-expense-tracker/README.md)
+
+## 2026-11-01
+
+**Major contribution: Concurrent HTTP Health Checker in Python**
+
+Built a dependency-free monitoring CLI that probes multiple HTTP endpoints concurrently with bounded worker threads, explicit timeouts, deterministic result ordering, useful exit codes, JSON output, and availability/median-latency summaries. Added seven network-isolated unit tests plus design, safety, and complexity documentation.
+
+Files:
+- [`projects/2026-11-01-http-health-checker/health_checker.py`](projects/2026-11-01-http-health-checker/health_checker.py)
+- [`projects/2026-11-01-http-health-checker/test_health_checker.py`](projects/2026-11-01-http-health-checker/test_health_checker.py)
+- [`projects/2026-11-01-http-health-checker/README.md`](projects/2026-11-01-http-health-checker/README.md)
