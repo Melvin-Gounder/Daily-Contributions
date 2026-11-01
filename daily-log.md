@@ -77,3 +77,16 @@ Files:
 - [`projects/2026-11-01-http-health-checker/health_checker.py`](projects/2026-11-01-http-health-checker/health_checker.py)
 - [`projects/2026-11-01-http-health-checker/test_health_checker.py`](projects/2026-11-01-http-health-checker/test_health_checker.py)
 - [`projects/2026-11-01-http-health-checker/README.md`](projects/2026-11-01-http-health-checker/README.md)
+
+## 2026-11-02
+
+**Major contribution: Thread-Safe Token-Bucket Rate Limiter in Java**
+
+Built a dependency-free token-bucket rate limiter that supports burst capacity, continuous fractional refill, weighted requests, estimated wait times, and synchronized atomic acquisition for concurrent callers. Added an injected deterministic clock so timing behavior can be tested without sleeping, a runnable demonstration, eight focused tests, complexity analysis, and notes on single-process versus distributed rate limiting.
+
+Files:
+- [`projects/2026-11-02-token-bucket-rate-limiter/TokenBucketRateLimiter.java`](projects/2026-11-02-token-bucket-rate-limiter/TokenBucketRateLimiter.java)
+- [`projects/2026-11-02-token-bucket-rate-limiter/MutableClock.java`](projects/2026-11-02-token-bucket-rate-limiter/MutableClock.java)
+- [`projects/2026-11-02-token-bucket-rate-limiter/RateLimiterDemo.java`](projects/2026-11-02-token-bucket-rate-limiter/RateLimiterDemo.java)
+- [`projects/2026-11-02-token-bucket-rate-limiter/TokenBucketRateLimiterTest.java`](projects/2026-11-02-token-bucket-rate-limiter/TokenBucketRateLimiterTest.java)
+- [`projects/2026-11-02-token-bucket-rate-limiter/README.md`](projects/2026-11-02-token-bucket-rate-limiter/README.md)
