@@ -90,3 +90,14 @@ Files:
 - [`projects/2026-11-02-token-bucket-rate-limiter/RateLimiterDemo.java`](projects/2026-11-02-token-bucket-rate-limiter/RateLimiterDemo.java)
 - [`projects/2026-11-02-token-bucket-rate-limiter/TokenBucketRateLimiterTest.java`](projects/2026-11-02-token-bucket-rate-limiter/TokenBucketRateLimiterTest.java)
 - [`projects/2026-11-02-token-bucket-rate-limiter/README.md`](projects/2026-11-02-token-bucket-rate-limiter/README.md)
+
+## 2026-11-04
+
+### Contribution 1: IPv4 CIDR Subnet Planner
+
+A strict IPv4 CIDR calculator with network, broadcast, usable host range, subnet splitting, and validation. Includes runnable examples, focused unit tests, and design documentation.
+
+Files:
+- [`projects/2026-11-04-cidr-subnet-planner/subnet.py`](projects/2026-11-04-cidr-subnet-planner/subnet.py)
+- [`projects/2026-11-04-cidr-subnet-planner/test_subnet.py`](projects/2026-11-04-cidr-subnet-planner/test_subnet.py)
+- [`projects/2026-11-04-cidr-subnet-planner/README.md`](projects/2026-11-04-cidr-subnet-planner/README.md)
