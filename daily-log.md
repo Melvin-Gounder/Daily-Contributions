@@ -110,3 +110,12 @@ Files:
 - [`projects/2026-11-04-dijkstra-route-planner/routes.py`](projects/2026-11-04-dijkstra-route-planner/routes.py)
 - [`projects/2026-11-04-dijkstra-route-planner/test_routes.py`](projects/2026-11-04-dijkstra-route-planner/test_routes.py)
 - [`projects/2026-11-04-dijkstra-route-planner/README.md`](projects/2026-11-04-dijkstra-route-planner/README.md)
+
+### Contribution 3: Typed Configuration Validator
+
+A reusable environment-configuration parser with typed fields, defaults, required values, range constraints, and secret-safe errors. Includes runnable examples, focused unit tests, and design documentation.
+
+Files:
+- [`projects/2026-11-04-config-validator/config.py`](projects/2026-11-04-config-validator/config.py)
+- [`projects/2026-11-04-config-validator/test_config.py`](projects/2026-11-04-config-validator/test_config.py)
+- [`projects/2026-11-04-config-validator/README.md`](projects/2026-11-04-config-validator/README.md)
