@@ -128,3 +128,12 @@ Files:
 - [`projects/2026-11-04-csv-data-profiler/profile_csv.py`](projects/2026-11-04-csv-data-profiler/profile_csv.py)
 - [`projects/2026-11-04-csv-data-profiler/test_profile_csv.py`](projects/2026-11-04-csv-data-profiler/test_profile_csv.py)
 - [`projects/2026-11-04-csv-data-profiler/README.md`](projects/2026-11-04-csv-data-profiler/README.md)
+
+### Contribution 5: Password Hashing and Verification Lab
+
+A defensive PBKDF2-HMAC-SHA256 password-storage example with per-password random salts, constant-time verification, and upgrade detection. Includes runnable examples, focused unit tests, and design documentation.
+
+Files:
+- [`projects/2026-11-04-password-hash-lab/passwords.py`](projects/2026-11-04-password-hash-lab/passwords.py)
+- [`projects/2026-11-04-password-hash-lab/test_passwords.py`](projects/2026-11-04-password-hash-lab/test_passwords.py)
+- [`projects/2026-11-04-password-hash-lab/README.md`](projects/2026-11-04-password-hash-lab/README.md)
