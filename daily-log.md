@@ -119,3 +119,12 @@ Files:
 - [`projects/2026-11-04-config-validator/config.py`](projects/2026-11-04-config-validator/config.py)
 - [`projects/2026-11-04-config-validator/test_config.py`](projects/2026-11-04-config-validator/test_config.py)
 - [`projects/2026-11-04-config-validator/README.md`](projects/2026-11-04-config-validator/README.md)
+
+### Contribution 4: Streaming CSV Data Quality Profiler
+
+A CLI that profiles CSV datasets with null counts, duplicate rows, numeric summaries, and malformed-row detection without loading the full dataset. Includes runnable examples, focused unit tests, and design documentation.
+
+Files:
+- [`projects/2026-11-04-csv-data-profiler/profile_csv.py`](projects/2026-11-04-csv-data-profiler/profile_csv.py)
+- [`projects/2026-11-04-csv-data-profiler/test_profile_csv.py`](projects/2026-11-04-csv-data-profiler/test_profile_csv.py)
+- [`projects/2026-11-04-csv-data-profiler/README.md`](projects/2026-11-04-csv-data-profiler/README.md)
