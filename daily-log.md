@@ -101,3 +101,12 @@ Files:
 - [`projects/2026-11-04-cidr-subnet-planner/subnet.py`](projects/2026-11-04-cidr-subnet-planner/subnet.py)
 - [`projects/2026-11-04-cidr-subnet-planner/test_subnet.py`](projects/2026-11-04-cidr-subnet-planner/test_subnet.py)
 - [`projects/2026-11-04-cidr-subnet-planner/README.md`](projects/2026-11-04-cidr-subnet-planner/README.md)
+
+### Contribution 2: Weighted Graph Route Planner
+
+A deterministic Dijkstra shortest-path implementation with unreachable-node handling, path reconstruction, and negative-weight rejection. Includes runnable examples, focused unit tests, and design documentation.
+
+Files:
+- [`projects/2026-11-04-dijkstra-route-planner/routes.py`](projects/2026-11-04-dijkstra-route-planner/routes.py)
+- [`projects/2026-11-04-dijkstra-route-planner/test_routes.py`](projects/2026-11-04-dijkstra-route-planner/test_routes.py)
+- [`projects/2026-11-04-dijkstra-route-planner/README.md`](projects/2026-11-04-dijkstra-route-planner/README.md)
