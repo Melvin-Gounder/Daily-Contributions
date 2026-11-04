@@ -137,3 +137,50 @@ Files:
 - [`projects/2026-11-04-password-hash-lab/passwords.py`](projects/2026-11-04-password-hash-lab/passwords.py)
 - [`projects/2026-11-04-password-hash-lab/test_passwords.py`](projects/2026-11-04-password-hash-lab/test_passwords.py)
 - [`projects/2026-11-04-password-hash-lab/README.md`](projects/2026-11-04-password-hash-lab/README.md)
+
+## 2026-11-05
+
+### Contribution 1: Interval Booking Calendar
+
+Conflict-safe half-open reservations, cancellation, available-slot search, and four self-contained unit tests.
+
+Files:
+- [`projects/2026-11-05-interval-calendar/calendar.py`](projects/2026-11-05-interval-calendar/calendar.py)
+
+Run `python projects/2026-11-05-interval-calendar/calendar.py` for a demonstration, or `python projects/2026-11-05-interval-calendar/calendar.py test` for the built-in unit tests. Requires Python 3.9+; no external packages.
+
+### Contribution 2: SHA-256 File Integrity Auditor
+
+Streaming hashes, deterministic JSON manifests, added/removed/modified detection, CLI exit status, and isolated tests.
+
+Files:
+- [`projects/2026-11-05-file-integrity/integrity.py`](projects/2026-11-05-file-integrity/integrity.py)
+
+Run `python projects/2026-11-05-file-integrity/integrity.py` for a demonstration, or `python projects/2026-11-05-file-integrity/integrity.py test` for the built-in unit tests. Requires Python 3.9+; no external packages.
+
+### Contribution 3: Guarded State-Machine Workflow
+
+Declarative approval transitions, guard conditions, rejection/rework, audit trail, and five focused tests.
+
+Files:
+- [`projects/2026-11-05-approval-workflow/workflow.py`](projects/2026-11-05-approval-workflow/workflow.py)
+
+Run `python projects/2026-11-05-approval-workflow/workflow.py` for a demonstration, or `python projects/2026-11-05-approval-workflow/workflow.py test` for the built-in unit tests. Requires Python 3.9+; no external packages.
+
+### Contribution 4: Inventory Replenishment Planner
+
+Decimal demand forecasting, reserved inventory, lead-time and safety stock, pack-size rounding, ranked orders, and six tests.
+
+Files:
+- [`projects/2026-11-05-stock-replenishment/stock.py`](projects/2026-11-05-stock-replenishment/stock.py)
+
+Run `python projects/2026-11-05-stock-replenishment/stock.py` for a demonstration, or `python projects/2026-11-05-stock-replenishment/stock.py test` for the built-in unit tests. Requires Python 3.9+; no external packages.
+
+### Contribution 5: Event-Sourced Account Ledger
+
+Append-only account events, integer-cent balances, replay, duplicate-ID protection, overdraft checks, JSONL import/export, and six tests.
+
+Files:
+- [`projects/2026-11-05-event-ledger/ledger.py`](projects/2026-11-05-event-ledger/ledger.py)
+
+Run `python projects/2026-11-05-event-ledger/ledger.py` for a demonstration, or `python projects/2026-11-05-event-ledger/ledger.py test` for the built-in unit tests. Requires Python 3.9+; no external packages.
