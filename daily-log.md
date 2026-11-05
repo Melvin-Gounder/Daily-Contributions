@@ -224,3 +224,12 @@ Files:
 - [`projects/2026-11-06-cursor-pagination/cursor.py`](projects/2026-11-06-cursor-pagination/cursor.py)
 - [`projects/2026-11-06-cursor-pagination/test_cursor.py`](projects/2026-11-06-cursor-pagination/test_cursor.py)
 - [`projects/2026-11-06-cursor-pagination/README.md`](projects/2026-11-06-cursor-pagination/README.md)
+
+### Contribution 5: Deficit Round Robin Scheduler
+
+Cost-aware fair scheduling with per-queue credits and FIFO preservation.
+
+Files:
+- [`projects/2026-11-06-weighted-queue/scheduler.py`](projects/2026-11-06-weighted-queue/scheduler.py)
+- [`projects/2026-11-06-weighted-queue/test_scheduler.py`](projects/2026-11-06-weighted-queue/test_scheduler.py)
+- [`projects/2026-11-06-weighted-queue/README.md`](projects/2026-11-06-weighted-queue/README.md)
