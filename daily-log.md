@@ -206,3 +206,12 @@ Files:
 - [`projects/2026-11-06-circuit-breaker/breaker.py`](projects/2026-11-06-circuit-breaker/breaker.py)
 - [`projects/2026-11-06-circuit-breaker/test_breaker.py`](projects/2026-11-06-circuit-breaker/test_breaker.py)
 - [`projects/2026-11-06-circuit-breaker/README.md`](projects/2026-11-06-circuit-breaker/README.md)
+
+### Contribution 3: Merkle Inclusion Proofs
+
+SHA-256 integrity roots and compact inclusion proofs with tamper detection.
+
+Files:
+- [`projects/2026-11-06-merkle-audit/merkle.py`](projects/2026-11-06-merkle-audit/merkle.py)
+- [`projects/2026-11-06-merkle-audit/test_merkle.py`](projects/2026-11-06-merkle-audit/test_merkle.py)
+- [`projects/2026-11-06-merkle-audit/README.md`](projects/2026-11-06-merkle-audit/README.md)
