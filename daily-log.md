@@ -184,3 +184,16 @@ Files:
 - [`projects/2026-11-05-event-ledger/ledger.py`](projects/2026-11-05-event-ledger/ledger.py)
 
 Run `python projects/2026-11-05-event-ledger/ledger.py` for a demonstration, or `python projects/2026-11-05-event-ledger/ledger.py test` for the built-in unit tests. Requires Python 3.9+; no external packages.
+
+## 2026-11-06
+
+**Daily target: 5 contributions (randomly selected from 5–10).**
+
+### Contribution 1: Consistent Hash Ring
+
+Deterministic virtual-node hashing with stable ownership and minimal remapping.
+
+Files:
+- [`projects/2026-11-06-consistent-hash/ring.py`](projects/2026-11-06-consistent-hash/ring.py)
+- [`projects/2026-11-06-consistent-hash/test_ring.py`](projects/2026-11-06-consistent-hash/test_ring.py)
+- [`projects/2026-11-06-consistent-hash/README.md`](projects/2026-11-06-consistent-hash/README.md)
