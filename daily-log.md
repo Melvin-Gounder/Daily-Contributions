@@ -197,3 +197,12 @@ Files:
 - [`projects/2026-11-06-consistent-hash/ring.py`](projects/2026-11-06-consistent-hash/ring.py)
 - [`projects/2026-11-06-consistent-hash/test_ring.py`](projects/2026-11-06-consistent-hash/test_ring.py)
 - [`projects/2026-11-06-consistent-hash/README.md`](projects/2026-11-06-consistent-hash/README.md)
+
+### Contribution 2: Circuit Breaker
+
+Failure-threshold protection with cooldown, half-open recovery, and deterministic clocks.
+
+Files:
+- [`projects/2026-11-06-circuit-breaker/breaker.py`](projects/2026-11-06-circuit-breaker/breaker.py)
+- [`projects/2026-11-06-circuit-breaker/test_breaker.py`](projects/2026-11-06-circuit-breaker/test_breaker.py)
+- [`projects/2026-11-06-circuit-breaker/README.md`](projects/2026-11-06-circuit-breaker/README.md)
