@@ -215,3 +215,12 @@ Files:
 - [`projects/2026-11-06-merkle-audit/merkle.py`](projects/2026-11-06-merkle-audit/merkle.py)
 - [`projects/2026-11-06-merkle-audit/test_merkle.py`](projects/2026-11-06-merkle-audit/test_merkle.py)
 - [`projects/2026-11-06-merkle-audit/README.md`](projects/2026-11-06-merkle-audit/README.md)
+
+### Contribution 4: Signed Keyset Pagination
+
+Tamper-evident HMAC cursor tokens and stable ordered page traversal.
+
+Files:
+- [`projects/2026-11-06-cursor-pagination/cursor.py`](projects/2026-11-06-cursor-pagination/cursor.py)
+- [`projects/2026-11-06-cursor-pagination/test_cursor.py`](projects/2026-11-06-cursor-pagination/test_cursor.py)
+- [`projects/2026-11-06-cursor-pagination/README.md`](projects/2026-11-06-cursor-pagination/README.md)
