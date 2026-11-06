@@ -273,3 +273,12 @@ Files:
 - [`projects/2026-11-07-ttl-cache/ttl_cache.py`](projects/2026-11-07-ttl-cache/ttl_cache.py)
 - [`projects/2026-11-07-ttl-cache/test_ttl_cache.py`](projects/2026-11-07-ttl-cache/test_ttl_cache.py)
 - [`projects/2026-11-07-ttl-cache/README.md`](projects/2026-11-07-ttl-cache/README.md)
+
+### Contribution 5: Recursive JSON Contract Validator
+
+Dependency-free recursive validation for JSON payloads with precise error paths, strict fields, arrays, and typed constraints.
+
+Files:
+- [`projects/2026-11-07-json-schema-lite/validator.py`](projects/2026-11-07-json-schema-lite/validator.py)
+- [`projects/2026-11-07-json-schema-lite/test_validator.py`](projects/2026-11-07-json-schema-lite/test_validator.py)
+- [`projects/2026-11-07-json-schema-lite/README.md`](projects/2026-11-07-json-schema-lite/README.md)
