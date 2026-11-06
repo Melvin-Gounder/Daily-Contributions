@@ -246,3 +246,12 @@ Files:
 - [`projects/2026-11-07-retry-backoff/retry.py`](projects/2026-11-07-retry-backoff/retry.py)
 - [`projects/2026-11-07-retry-backoff/test_retry.py`](projects/2026-11-07-retry-backoff/test_retry.py)
 - [`projects/2026-11-07-retry-backoff/README.md`](projects/2026-11-07-retry-backoff/README.md)
+
+### Contribution 2: Disjoint Set Connectivity Toolkit
+
+Union-by-size and path compression for dynamic connectivity, component membership, and Kruskal-style cycle detection.
+
+Files:
+- [`projects/2026-11-07-union-find/connectivity.py`](projects/2026-11-07-union-find/connectivity.py)
+- [`projects/2026-11-07-union-find/test_connectivity.py`](projects/2026-11-07-union-find/test_connectivity.py)
+- [`projects/2026-11-07-union-find/README.md`](projects/2026-11-07-union-find/README.md)
