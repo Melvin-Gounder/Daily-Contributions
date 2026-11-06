@@ -255,3 +255,12 @@ Files:
 - [`projects/2026-11-07-union-find/connectivity.py`](projects/2026-11-07-union-find/connectivity.py)
 - [`projects/2026-11-07-union-find/test_connectivity.py`](projects/2026-11-07-union-find/test_connectivity.py)
 - [`projects/2026-11-07-union-find/README.md`](projects/2026-11-07-union-find/README.md)
+
+### Contribution 3: Bloom Filter Membership Lab
+
+Space-efficient probabilistic set membership using double hashing, sizing equations, serialization, and false-positive analysis.
+
+Files:
+- [`projects/2026-11-07-bloom-filter/bloom.py`](projects/2026-11-07-bloom-filter/bloom.py)
+- [`projects/2026-11-07-bloom-filter/test_bloom.py`](projects/2026-11-07-bloom-filter/test_bloom.py)
+- [`projects/2026-11-07-bloom-filter/README.md`](projects/2026-11-07-bloom-filter/README.md)
