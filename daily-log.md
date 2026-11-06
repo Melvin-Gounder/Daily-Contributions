@@ -264,3 +264,12 @@ Files:
 - [`projects/2026-11-07-bloom-filter/bloom.py`](projects/2026-11-07-bloom-filter/bloom.py)
 - [`projects/2026-11-07-bloom-filter/test_bloom.py`](projects/2026-11-07-bloom-filter/test_bloom.py)
 - [`projects/2026-11-07-bloom-filter/README.md`](projects/2026-11-07-bloom-filter/README.md)
+
+### Contribution 4: TTL Cache with Fake Clock
+
+Expiring in-memory cache with monotonic deadlines, capacity-limited LRU eviction, injectable clock, and deterministic tests.
+
+Files:
+- [`projects/2026-11-07-ttl-cache/ttl_cache.py`](projects/2026-11-07-ttl-cache/ttl_cache.py)
+- [`projects/2026-11-07-ttl-cache/test_ttl_cache.py`](projects/2026-11-07-ttl-cache/test_ttl_cache.py)
+- [`projects/2026-11-07-ttl-cache/README.md`](projects/2026-11-07-ttl-cache/README.md)
