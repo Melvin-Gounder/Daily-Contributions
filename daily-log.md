@@ -233,3 +233,16 @@ Files:
 - [`projects/2026-11-06-weighted-queue/scheduler.py`](projects/2026-11-06-weighted-queue/scheduler.py)
 - [`projects/2026-11-06-weighted-queue/test_scheduler.py`](projects/2026-11-06-weighted-queue/test_scheduler.py)
 - [`projects/2026-11-06-weighted-queue/README.md`](projects/2026-11-06-weighted-queue/README.md)
+
+## 2026-11-07
+
+**Daily target: 5 contributions (randomly selected from 5–10).**
+
+### Contribution 1: Deterministic Retry Policy
+
+Bounded exponential backoff with deterministic jitter, retryable-exception filtering, injectable sleep, and attempt history.
+
+Files:
+- [`projects/2026-11-07-retry-backoff/retry.py`](projects/2026-11-07-retry-backoff/retry.py)
+- [`projects/2026-11-07-retry-backoff/test_retry.py`](projects/2026-11-07-retry-backoff/test_retry.py)
+- [`projects/2026-11-07-retry-backoff/README.md`](projects/2026-11-07-retry-backoff/README.md)
