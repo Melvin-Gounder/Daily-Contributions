@@ -322,3 +322,12 @@ Files:
 - [`projects/2026-11-08-webhook-auth/webhook.py`](projects/2026-11-08-webhook-auth/webhook.py)
 - [`projects/2026-11-08-webhook-auth/test_webhook.py`](projects/2026-11-08-webhook-auth/test_webhook.py)
 - [`projects/2026-11-08-webhook-auth/README.md`](projects/2026-11-08-webhook-auth/README.md)
+
+### Contribution 5: LCS Line Diff
+
+Dynamic-programming line diff with deterministic edit reconstruction and replay. Includes runnable Python source, tests, and documentation.
+
+Files:
+- [`projects/2026-11-08-text-diff/line_diff.py`](projects/2026-11-08-text-diff/line_diff.py)
+- [`projects/2026-11-08-text-diff/test_line_diff.py`](projects/2026-11-08-text-diff/test_line_diff.py)
+- [`projects/2026-11-08-text-diff/README.md`](projects/2026-11-08-text-diff/README.md)
