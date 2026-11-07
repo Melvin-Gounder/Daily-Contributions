@@ -282,3 +282,16 @@ Files:
 - [`projects/2026-11-07-json-schema-lite/validator.py`](projects/2026-11-07-json-schema-lite/validator.py)
 - [`projects/2026-11-07-json-schema-lite/test_validator.py`](projects/2026-11-07-json-schema-lite/test_validator.py)
 - [`projects/2026-11-07-json-schema-lite/README.md`](projects/2026-11-07-json-schema-lite/README.md)
+
+## 2026-11-08
+
+**Daily target: 5 contributions (randomly selected from 5–10).**
+
+### Contribution 1: A* Grid Pathfinding
+
+Obstacle-aware shortest-path search using an admissible Manhattan heuristic. Includes runnable Python source, tests, and documentation.
+
+Files:
+- [`projects/2026-11-08-astar-grid/astar.py`](projects/2026-11-08-astar-grid/astar.py)
+- [`projects/2026-11-08-astar-grid/test_astar.py`](projects/2026-11-08-astar-grid/test_astar.py)
+- [`projects/2026-11-08-astar-grid/README.md`](projects/2026-11-08-astar-grid/README.md)
