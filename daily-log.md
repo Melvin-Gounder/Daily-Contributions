@@ -313,3 +313,12 @@ Files:
 - [`projects/2026-11-08-csv-relational-join/join_csv.py`](projects/2026-11-08-csv-relational-join/join_csv.py)
 - [`projects/2026-11-08-csv-relational-join/test_join_csv.py`](projects/2026-11-08-csv-relational-join/test_join_csv.py)
 - [`projects/2026-11-08-csv-relational-join/README.md`](projects/2026-11-08-csv-relational-join/README.md)
+
+### Contribution 4: HMAC Webhook Verification
+
+Timestamp-bound HMAC signatures with constant-time comparison and replay rejection. Includes runnable Python source, tests, and documentation.
+
+Files:
+- [`projects/2026-11-08-webhook-auth/webhook.py`](projects/2026-11-08-webhook-auth/webhook.py)
+- [`projects/2026-11-08-webhook-auth/test_webhook.py`](projects/2026-11-08-webhook-auth/test_webhook.py)
+- [`projects/2026-11-08-webhook-auth/README.md`](projects/2026-11-08-webhook-auth/README.md)
