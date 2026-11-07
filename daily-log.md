@@ -295,3 +295,12 @@ Files:
 - [`projects/2026-11-08-astar-grid/astar.py`](projects/2026-11-08-astar-grid/astar.py)
 - [`projects/2026-11-08-astar-grid/test_astar.py`](projects/2026-11-08-astar-grid/test_astar.py)
 - [`projects/2026-11-08-astar-grid/README.md`](projects/2026-11-08-astar-grid/README.md)
+
+### Contribution 2: Transactional SQLite Migrations
+
+Versioned transactional schema evolution with checksum-based drift detection. Includes runnable Python source, tests, and documentation.
+
+Files:
+- [`projects/2026-11-08-sqlite-migrations/migrations.py`](projects/2026-11-08-sqlite-migrations/migrations.py)
+- [`projects/2026-11-08-sqlite-migrations/test_migrations.py`](projects/2026-11-08-sqlite-migrations/test_migrations.py)
+- [`projects/2026-11-08-sqlite-migrations/README.md`](projects/2026-11-08-sqlite-migrations/README.md)
