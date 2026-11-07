@@ -304,3 +304,12 @@ Files:
 - [`projects/2026-11-08-sqlite-migrations/migrations.py`](projects/2026-11-08-sqlite-migrations/migrations.py)
 - [`projects/2026-11-08-sqlite-migrations/test_migrations.py`](projects/2026-11-08-sqlite-migrations/test_migrations.py)
 - [`projects/2026-11-08-sqlite-migrations/README.md`](projects/2026-11-08-sqlite-migrations/README.md)
+
+### Contribution 3: CSV Hash Join CLI
+
+Relational inner and left joins with duplicate keys and column collision handling. Includes runnable Python source, tests, and documentation.
+
+Files:
+- [`projects/2026-11-08-csv-relational-join/join_csv.py`](projects/2026-11-08-csv-relational-join/join_csv.py)
+- [`projects/2026-11-08-csv-relational-join/test_join_csv.py`](projects/2026-11-08-csv-relational-join/test_join_csv.py)
+- [`projects/2026-11-08-csv-relational-join/README.md`](projects/2026-11-08-csv-relational-join/README.md)
