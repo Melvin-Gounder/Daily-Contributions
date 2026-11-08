@@ -353,3 +353,12 @@ Files:
 - [projects/2026-11-09-cidr-policy/policy.py](projects/2026-11-09-cidr-policy/policy.py)
 - [projects/2026-11-09-cidr-policy/test_policy.py](projects/2026-11-09-cidr-policy/test_policy.py)
 - [projects/2026-11-09-cidr-policy/README.md](projects/2026-11-09-cidr-policy/README.md)
+
+### Contribution 3: Atomic JSON Settings Store
+
+Crash-conscious atomic file replacement using temporary files and fsync; revision checks detect stale sequential writes. Not safe for concurrent cross-process writers without locks.
+
+Files:
+- [projects/2026-11-09-atomic-json/store.py](projects/2026-11-09-atomic-json/store.py)
+- [projects/2026-11-09-atomic-json/test_store.py](projects/2026-11-09-atomic-json/test_store.py)
+- [projects/2026-11-09-atomic-json/README.md](projects/2026-11-09-atomic-json/README.md)
