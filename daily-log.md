@@ -331,3 +331,16 @@ Files:
 - [`projects/2026-11-08-text-diff/line_diff.py`](projects/2026-11-08-text-diff/line_diff.py)
 - [`projects/2026-11-08-text-diff/test_line_diff.py`](projects/2026-11-08-text-diff/test_line_diff.py)
 - [`projects/2026-11-08-text-diff/README.md`](projects/2026-11-08-text-diff/README.md)
+
+## 2026-11-09
+
+**Daily target: 5 contributions (randomly selected from 5–10).**
+
+### Contribution 1: Weighted Interval Scheduling
+
+Dynamic programming with binary-search predecessors selects a maximum-value set of non-overlapping jobs. Half-open intervals permit adjacent jobs. O(n log n) time, O(n) space.
+
+Files:
+- [projects/2026-11-09-weighted-intervals/schedule.py](projects/2026-11-09-weighted-intervals/schedule.py)
+- [projects/2026-11-09-weighted-intervals/test_schedule.py](projects/2026-11-09-weighted-intervals/test_schedule.py)
+- [projects/2026-11-09-weighted-intervals/README.md](projects/2026-11-09-weighted-intervals/README.md)
