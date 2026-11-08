@@ -362,3 +362,12 @@ Files:
 - [projects/2026-11-09-atomic-json/store.py](projects/2026-11-09-atomic-json/store.py)
 - [projects/2026-11-09-atomic-json/test_store.py](projects/2026-11-09-atomic-json/test_store.py)
 - [projects/2026-11-09-atomic-json/README.md](projects/2026-11-09-atomic-json/README.md)
+
+### Contribution 4: HTTP Cache Freshness Model
+
+Pure HTTP Cache-Control educational model for max-age, s-maxage, private, public, no-store, no-cache, and authenticated shared caches. Omits Date/Age corrections, Vary, validators, and other RFC 9111 rules; not production HTTP cache.
+
+Files:
+- [projects/2026-11-09-http-cache/cache.py](projects/2026-11-09-http-cache/cache.py)
+- [projects/2026-11-09-http-cache/test_cache.py](projects/2026-11-09-http-cache/test_cache.py)
+- [projects/2026-11-09-http-cache/README.md](projects/2026-11-09-http-cache/README.md)
