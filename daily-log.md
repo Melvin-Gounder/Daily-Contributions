@@ -344,3 +344,12 @@ Files:
 - [projects/2026-11-09-weighted-intervals/schedule.py](projects/2026-11-09-weighted-intervals/schedule.py)
 - [projects/2026-11-09-weighted-intervals/test_schedule.py](projects/2026-11-09-weighted-intervals/test_schedule.py)
 - [projects/2026-11-09-weighted-intervals/README.md](projects/2026-11-09-weighted-intervals/README.md)
+
+### Contribution 2: IPv4 CIDR Policy Evaluator
+
+First-match ordered CIDR rules with strict IPv4 validation and explainable decisions. O(R) per lookup for R rules. Pure simulation; does not change OS firewall settings.
+
+Files:
+- [projects/2026-11-09-cidr-policy/policy.py](projects/2026-11-09-cidr-policy/policy.py)
+- [projects/2026-11-09-cidr-policy/test_policy.py](projects/2026-11-09-cidr-policy/test_policy.py)
+- [projects/2026-11-09-cidr-policy/README.md](projects/2026-11-09-cidr-policy/README.md)
