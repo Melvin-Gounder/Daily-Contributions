@@ -371,3 +371,12 @@ Files:
 - [projects/2026-11-09-http-cache/cache.py](projects/2026-11-09-http-cache/cache.py)
 - [projects/2026-11-09-http-cache/test_cache.py](projects/2026-11-09-http-cache/test_cache.py)
 - [projects/2026-11-09-http-cache/README.md](projects/2026-11-09-http-cache/README.md)
+
+### Contribution 5: Incremental Build Impact Planner
+
+Reverse-edge affected-target discovery plus deterministic heap-based Kahn topological sorting. Detects cycles and unknown dependencies. O(V+E+V log V) worst-case; models build ordering, not command execution.
+
+Files:
+- [projects/2026-11-09-build-impact/planner.py](projects/2026-11-09-build-impact/planner.py)
+- [projects/2026-11-09-build-impact/test_planner.py](projects/2026-11-09-build-impact/test_planner.py)
+- [projects/2026-11-09-build-impact/README.md](projects/2026-11-09-build-impact/README.md)
