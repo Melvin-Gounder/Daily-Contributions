@@ -393,3 +393,12 @@ Files:
 - [projects/2026-11-10-ipv6-subnet-toolkit/toolkit.py](projects/2026-11-10-ipv6-subnet-toolkit/toolkit.py)
 - [projects/2026-11-10-ipv6-subnet-toolkit/test_toolkit.py](projects/2026-11-10-ipv6-subnet-toolkit/test_toolkit.py)
 - [projects/2026-11-10-ipv6-subnet-toolkit/README.md](projects/2026-11-10-ipv6-subnet-toolkit/README.md)
+
+### Contribution 2: Max Flow / Min Cut Explorer
+
+Edmonds–Karp residual-network solver with parallel-edge aggregation, augmenting-path traces, min-cut certificates, and flow conservation tests.
+
+Files:
+- [projects/2026-11-10-max-flow-min-cut/flow.py](projects/2026-11-10-max-flow-min-cut/flow.py)
+- [projects/2026-11-10-max-flow-min-cut/test_flow.py](projects/2026-11-10-max-flow-min-cut/test_flow.py)
+- [projects/2026-11-10-max-flow-min-cut/README.md](projects/2026-11-10-max-flow-min-cut/README.md)
