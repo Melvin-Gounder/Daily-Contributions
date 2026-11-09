@@ -402,3 +402,12 @@ Files:
 - [projects/2026-11-10-max-flow-min-cut/flow.py](projects/2026-11-10-max-flow-min-cut/flow.py)
 - [projects/2026-11-10-max-flow-min-cut/test_flow.py](projects/2026-11-10-max-flow-min-cut/test_flow.py)
 - [projects/2026-11-10-max-flow-min-cut/README.md](projects/2026-11-10-max-flow-min-cut/README.md)
+
+### Contribution 3: Safe ZIP Extraction CLI
+
+ZIP archive extraction with path traversal rejection, symlink rejection, duplicate-output checks, per-file and aggregate size budgets, and isolated tests.
+
+Files:
+- [projects/2026-11-10-secure-zip-extractor/safezip.py](projects/2026-11-10-secure-zip-extractor/safezip.py)
+- [projects/2026-11-10-secure-zip-extractor/test_safezip.py](projects/2026-11-10-secure-zip-extractor/test_safezip.py)
+- [projects/2026-11-10-secure-zip-extractor/README.md](projects/2026-11-10-secure-zip-extractor/README.md)
