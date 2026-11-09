@@ -411,3 +411,12 @@ Files:
 - [projects/2026-11-10-secure-zip-extractor/safezip.py](projects/2026-11-10-secure-zip-extractor/safezip.py)
 - [projects/2026-11-10-secure-zip-extractor/test_safezip.py](projects/2026-11-10-secure-zip-extractor/test_safezip.py)
 - [projects/2026-11-10-secure-zip-extractor/README.md](projects/2026-11-10-secure-zip-extractor/README.md)
+
+### Contribution 4: SQLite Audit Trail Demo
+
+SQLite trigger-based change history for inventory records, parameterized updates, transactional writes, and history reconstruction.
+
+Files:
+- [projects/2026-11-10-sqlite-audit-trail/audit.py](projects/2026-11-10-sqlite-audit-trail/audit.py)
+- [projects/2026-11-10-sqlite-audit-trail/test_audit.py](projects/2026-11-10-sqlite-audit-trail/test_audit.py)
+- [projects/2026-11-10-sqlite-audit-trail/README.md](projects/2026-11-10-sqlite-audit-trail/README.md)
