@@ -420,3 +420,12 @@ Files:
 - [projects/2026-11-10-sqlite-audit-trail/audit.py](projects/2026-11-10-sqlite-audit-trail/audit.py)
 - [projects/2026-11-10-sqlite-audit-trail/test_audit.py](projects/2026-11-10-sqlite-audit-trail/test_audit.py)
 - [projects/2026-11-10-sqlite-audit-trail/README.md](projects/2026-11-10-sqlite-audit-trail/README.md)
+
+### Contribution 5: Project Critical Path Analyzer
+
+DAG-based project scheduling with earliest/latest starts, slack, critical tasks, cycle detection, and a worked project plan.
+
+Files:
+- [projects/2026-11-10-critical-path-analysis/cpm.py](projects/2026-11-10-critical-path-analysis/cpm.py)
+- [projects/2026-11-10-critical-path-analysis/test_cpm.py](projects/2026-11-10-critical-path-analysis/test_cpm.py)
+- [projects/2026-11-10-critical-path-analysis/README.md](projects/2026-11-10-critical-path-analysis/README.md)
