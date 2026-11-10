@@ -469,3 +469,12 @@ Files:
 - [projects/2026-11-11-event-window/windows.py](projects/2026-11-11-event-window/windows.py)
 - [projects/2026-11-11-event-window/test_windows.py](projects/2026-11-11-event-window/test_windows.py)
 - [projects/2026-11-11-event-window/README.md](projects/2026-11-11-event-window/README.md)
+
+### Contribution 5: Weighted Trie Autocomplete Engine
+
+Prefix search with ranked suggestions, updates, deletion, and deterministic tie-breaking.
+
+Files:
+- [projects/2026-11-11-trie-autocomplete/trie.py](projects/2026-11-11-trie-autocomplete/trie.py)
+- [projects/2026-11-11-trie-autocomplete/test_trie.py](projects/2026-11-11-trie-autocomplete/test_trie.py)
+- [projects/2026-11-11-trie-autocomplete/README.md](projects/2026-11-11-trie-autocomplete/README.md)
