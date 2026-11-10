@@ -429,3 +429,16 @@ Files:
 - [projects/2026-11-10-critical-path-analysis/cpm.py](projects/2026-11-10-critical-path-analysis/cpm.py)
 - [projects/2026-11-10-critical-path-analysis/test_cpm.py](projects/2026-11-10-critical-path-analysis/test_cpm.py)
 - [projects/2026-11-10-critical-path-analysis/README.md](projects/2026-11-10-critical-path-analysis/README.md)
+
+## 2026-11-11
+
+**Daily target: 6 contributions (randomly selected from 5–10).**
+
+### Contribution 1: Strongly Connected Components Analyzer
+
+Tarjan's linear-time graph decomposition, condensation DAG, and cycle identification.
+
+Files:
+- [projects/2026-11-11-tarjan-scc/scc.py](projects/2026-11-11-tarjan-scc/scc.py)
+- [projects/2026-11-11-tarjan-scc/test_scc.py](projects/2026-11-11-tarjan-scc/test_scc.py)
+- [projects/2026-11-11-tarjan-scc/README.md](projects/2026-11-11-tarjan-scc/README.md)
