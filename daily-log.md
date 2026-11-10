@@ -451,3 +451,12 @@ Files:
 - [projects/2026-11-11-external-merge/merge.py](projects/2026-11-11-external-merge/merge.py)
 - [projects/2026-11-11-external-merge/test_merge.py](projects/2026-11-11-external-merge/test_merge.py)
 - [projects/2026-11-11-external-merge/README.md](projects/2026-11-11-external-merge/README.md)
+
+### Contribution 3: Ranked Full-Text Search Index
+
+BM25 ranking with token normalization, document replacement, and explainable term scores.
+
+Files:
+- [projects/2026-11-11-inverted-search/search.py](projects/2026-11-11-inverted-search/search.py)
+- [projects/2026-11-11-inverted-search/test_search.py](projects/2026-11-11-inverted-search/test_search.py)
+- [projects/2026-11-11-inverted-search/README.md](projects/2026-11-11-inverted-search/README.md)
