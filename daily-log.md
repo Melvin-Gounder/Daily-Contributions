@@ -478,3 +478,12 @@ Files:
 - [projects/2026-11-11-trie-autocomplete/trie.py](projects/2026-11-11-trie-autocomplete/trie.py)
 - [projects/2026-11-11-trie-autocomplete/test_trie.py](projects/2026-11-11-trie-autocomplete/test_trie.py)
 - [projects/2026-11-11-trie-autocomplete/README.md](projects/2026-11-11-trie-autocomplete/README.md)
+
+### Contribution 6: Transactional JSON Patch Engine
+
+RFC 6902-inspired add, remove, replace, test operations with JSON Pointer decoding and atomic application.
+
+Files:
+- [projects/2026-11-11-json-patch/patch.py](projects/2026-11-11-json-patch/patch.py)
+- [projects/2026-11-11-json-patch/test_patch.py](projects/2026-11-11-json-patch/test_patch.py)
+- [projects/2026-11-11-json-patch/README.md](projects/2026-11-11-json-patch/README.md)
