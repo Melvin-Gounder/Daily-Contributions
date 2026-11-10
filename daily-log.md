@@ -442,3 +442,12 @@ Files:
 - [projects/2026-11-11-tarjan-scc/scc.py](projects/2026-11-11-tarjan-scc/scc.py)
 - [projects/2026-11-11-tarjan-scc/test_scc.py](projects/2026-11-11-tarjan-scc/test_scc.py)
 - [projects/2026-11-11-tarjan-scc/README.md](projects/2026-11-11-tarjan-scc/README.md)
+
+### Contribution 2: Streaming K-Way Merge CLI
+
+Heap-based merge of sorted integer streams with input-order validation and atomic output.
+
+Files:
+- [projects/2026-11-11-external-merge/merge.py](projects/2026-11-11-external-merge/merge.py)
+- [projects/2026-11-11-external-merge/test_merge.py](projects/2026-11-11-external-merge/test_merge.py)
+- [projects/2026-11-11-external-merge/README.md](projects/2026-11-11-external-merge/README.md)
