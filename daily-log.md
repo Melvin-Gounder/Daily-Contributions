@@ -460,3 +460,12 @@ Files:
 - [projects/2026-11-11-inverted-search/search.py](projects/2026-11-11-inverted-search/search.py)
 - [projects/2026-11-11-inverted-search/test_search.py](projects/2026-11-11-inverted-search/test_search.py)
 - [projects/2026-11-11-inverted-search/README.md](projects/2026-11-11-inverted-search/README.md)
+
+### Contribution 4: Out-of-Order Event Window Aggregator
+
+Event-time tumbling windows, watermarks, late-event rejection, and deterministic aggregation.
+
+Files:
+- [projects/2026-11-11-event-window/windows.py](projects/2026-11-11-event-window/windows.py)
+- [projects/2026-11-11-event-window/test_windows.py](projects/2026-11-11-event-window/test_windows.py)
+- [projects/2026-11-11-event-window/README.md](projects/2026-11-11-event-window/README.md)
