@@ -528,3 +528,12 @@ Files:
 - [projects/2026-11-12-jsonl-deduplication-cli/dedup.py](projects/2026-11-12-jsonl-deduplication-cli/dedup.py)
 - [projects/2026-11-12-jsonl-deduplication-cli/test_dedup.py](projects/2026-11-12-jsonl-deduplication-cli/test_dedup.py)
 - [projects/2026-11-12-jsonl-deduplication-cli/README.md](projects/2026-11-12-jsonl-deduplication-cli/README.md)
+
+### Contribution 5: HTTP Byte Range Parser
+
+RFC 9110-style single-range parsing with open-ended/suffix ranges, unsatisfiable-range detection, and Content-Range formatting.
+
+Files:
+- [projects/2026-11-12-http-range-parser/ranges.py](projects/2026-11-12-http-range-parser/ranges.py)
+- [projects/2026-11-12-http-range-parser/test_ranges.py](projects/2026-11-12-http-range-parser/test_ranges.py)
+- [projects/2026-11-12-http-range-parser/README.md](projects/2026-11-12-http-range-parser/README.md)
