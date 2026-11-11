@@ -501,3 +501,12 @@ Files:
 - [projects/2026-11-12-polynomial-arithmetic/polynomial.py](projects/2026-11-12-polynomial-arithmetic/polynomial.py)
 - [projects/2026-11-12-polynomial-arithmetic/test_polynomial.py](projects/2026-11-12-polynomial-arithmetic/test_polynomial.py)
 - [projects/2026-11-12-polynomial-arithmetic/README.md](projects/2026-11-12-polynomial-arithmetic/README.md)
+
+### Contribution 2: Five-Field Cron Expression Planner
+
+Cron field parser with ranges, lists, steps, weekday semantics, and bounded minute-by-minute schedule search.
+
+Files:
+- [projects/2026-11-12-cron-expression-planner/cron.py](projects/2026-11-12-cron-expression-planner/cron.py)
+- [projects/2026-11-12-cron-expression-planner/test_cron.py](projects/2026-11-12-cron-expression-planner/test_cron.py)
+- [projects/2026-11-12-cron-expression-planner/README.md](projects/2026-11-12-cron-expression-planner/README.md)
