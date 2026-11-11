@@ -510,3 +510,12 @@ Files:
 - [projects/2026-11-12-cron-expression-planner/cron.py](projects/2026-11-12-cron-expression-planner/cron.py)
 - [projects/2026-11-12-cron-expression-planner/test_cron.py](projects/2026-11-12-cron-expression-planner/test_cron.py)
 - [projects/2026-11-12-cron-expression-planner/README.md](projects/2026-11-12-cron-expression-planner/README.md)
+
+### Contribution 3: Shamir Secret Sharing Demonstration
+
+Threshold secret splitting and Lagrange reconstruction over a finite prime field, with validated shares and secure coefficient generation.
+
+Files:
+- [projects/2026-11-12-shamir-secret-sharing/shamir.py](projects/2026-11-12-shamir-secret-sharing/shamir.py)
+- [projects/2026-11-12-shamir-secret-sharing/test_shamir.py](projects/2026-11-12-shamir-secret-sharing/test_shamir.py)
+- [projects/2026-11-12-shamir-secret-sharing/README.md](projects/2026-11-12-shamir-secret-sharing/README.md)
