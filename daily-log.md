@@ -537,3 +537,12 @@ Files:
 - [projects/2026-11-12-http-range-parser/ranges.py](projects/2026-11-12-http-range-parser/ranges.py)
 - [projects/2026-11-12-http-range-parser/test_ranges.py](projects/2026-11-12-http-range-parser/test_ranges.py)
 - [projects/2026-11-12-http-range-parser/README.md](projects/2026-11-12-http-range-parser/README.md)
+
+### Contribution 6: Time-Based One-Time Password Authenticator
+
+RFC 6238-compatible HMAC-SHA1 TOTP generation and bounded-window verification with constant-time comparisons and published test vectors.
+
+Files:
+- [projects/2026-11-12-totp-authenticator/totp.py](projects/2026-11-12-totp-authenticator/totp.py)
+- [projects/2026-11-12-totp-authenticator/test_totp.py](projects/2026-11-12-totp-authenticator/test_totp.py)
+- [projects/2026-11-12-totp-authenticator/README.md](projects/2026-11-12-totp-authenticator/README.md)
