@@ -487,3 +487,17 @@ Files:
 - [projects/2026-11-11-json-patch/patch.py](projects/2026-11-11-json-patch/patch.py)
 - [projects/2026-11-11-json-patch/test_patch.py](projects/2026-11-11-json-patch/test_patch.py)
 - [projects/2026-11-11-json-patch/README.md](projects/2026-11-11-json-patch/README.md)
+
+
+## 2026-11-12
+
+**Daily target: 6 contributions (randomly selected from 5–10).**
+
+### Contribution 1: Sparse Polynomial Arithmetic
+
+Exact rational sparse polynomials with addition, multiplication, differentiation, evaluation, and zero-term normalization.
+
+Files:
+- [projects/2026-11-12-polynomial-arithmetic/polynomial.py](projects/2026-11-12-polynomial-arithmetic/polynomial.py)
+- [projects/2026-11-12-polynomial-arithmetic/test_polynomial.py](projects/2026-11-12-polynomial-arithmetic/test_polynomial.py)
+- [projects/2026-11-12-polynomial-arithmetic/README.md](projects/2026-11-12-polynomial-arithmetic/README.md)
