@@ -519,3 +519,12 @@ Files:
 - [projects/2026-11-12-shamir-secret-sharing/shamir.py](projects/2026-11-12-shamir-secret-sharing/shamir.py)
 - [projects/2026-11-12-shamir-secret-sharing/test_shamir.py](projects/2026-11-12-shamir-secret-sharing/test_shamir.py)
 - [projects/2026-11-12-shamir-secret-sharing/README.md](projects/2026-11-12-shamir-secret-sharing/README.md)
+
+### Contribution 4: Streaming JSONL Deduplication CLI
+
+Line-oriented JSON deduplication by nested field, deterministic first-seen retention, strict errors, and atomic output replacement.
+
+Files:
+- [projects/2026-11-12-jsonl-deduplication-cli/dedup.py](projects/2026-11-12-jsonl-deduplication-cli/dedup.py)
+- [projects/2026-11-12-jsonl-deduplication-cli/test_dedup.py](projects/2026-11-12-jsonl-deduplication-cli/test_dedup.py)
+- [projects/2026-11-12-jsonl-deduplication-cli/README.md](projects/2026-11-12-jsonl-deduplication-cli/README.md)
