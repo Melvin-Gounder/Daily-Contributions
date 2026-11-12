@@ -613,3 +613,12 @@ Files:
 - [projects/2026-11-13-network-packet-checksum/tool.py](projects/2026-11-13-network-packet-checksum/tool.py)
 - [projects/2026-11-13-network-packet-checksum/test_tool.py](projects/2026-11-13-network-packet-checksum/test_tool.py)
 - [projects/2026-11-13-network-packet-checksum/README.md](projects/2026-11-13-network-packet-checksum/README.md)
+
+### Contribution 8: Canonical Huffman Codebook
+
+Deterministic Huffman length construction and canonical prefix-code assignment with round-trip bit encoding.
+
+Files:
+- [projects/2026-11-13-huffman-canonical/tool.py](projects/2026-11-13-huffman-canonical/tool.py)
+- [projects/2026-11-13-huffman-canonical/test_tool.py](projects/2026-11-13-huffman-canonical/test_tool.py)
+- [projects/2026-11-13-huffman-canonical/README.md](projects/2026-11-13-huffman-canonical/README.md)
