@@ -622,3 +622,12 @@ Files:
 - [projects/2026-11-13-huffman-canonical/tool.py](projects/2026-11-13-huffman-canonical/tool.py)
 - [projects/2026-11-13-huffman-canonical/test_tool.py](projects/2026-11-13-huffman-canonical/test_tool.py)
 - [projects/2026-11-13-huffman-canonical/README.md](projects/2026-11-13-huffman-canonical/README.md)
+
+### Contribution 9: Bounded Streaming Top-K Leaderboard
+
+Memory-bounded top-k aggregation over scored records with deterministic tie-breaking and input validation.
+
+Files:
+- [projects/2026-11-13-topk-stream/tool.py](projects/2026-11-13-topk-stream/tool.py)
+- [projects/2026-11-13-topk-stream/test_tool.py](projects/2026-11-13-topk-stream/test_tool.py)
+- [projects/2026-11-13-topk-stream/README.md](projects/2026-11-13-topk-stream/README.md)
