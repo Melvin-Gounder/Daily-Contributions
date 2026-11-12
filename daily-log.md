@@ -586,3 +586,12 @@ Files:
 - [projects/2026-11-13-log-redaction/tool.py](projects/2026-11-13-log-redaction/tool.py)
 - [projects/2026-11-13-log-redaction/test_tool.py](projects/2026-11-13-log-redaction/test_tool.py)
 - [projects/2026-11-13-log-redaction/README.md](projects/2026-11-13-log-redaction/README.md)
+
+### Contribution 5: Finite-State Text Normalizer
+
+Composable streaming character transformations with whitespace collapse and stateful punctuation handling.
+
+Files:
+- [projects/2026-11-13-finite-state-transducer/tool.py](projects/2026-11-13-finite-state-transducer/tool.py)
+- [projects/2026-11-13-finite-state-transducer/test_tool.py](projects/2026-11-13-finite-state-transducer/test_tool.py)
+- [projects/2026-11-13-finite-state-transducer/README.md](projects/2026-11-13-finite-state-transducer/README.md)
