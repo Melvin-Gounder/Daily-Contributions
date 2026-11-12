@@ -577,3 +577,12 @@ Files:
 - [projects/2026-11-13-bipartite-matching/tool.py](projects/2026-11-13-bipartite-matching/tool.py)
 - [projects/2026-11-13-bipartite-matching/test_tool.py](projects/2026-11-13-bipartite-matching/test_tool.py)
 - [projects/2026-11-13-bipartite-matching/README.md](projects/2026-11-13-bipartite-matching/README.md)
+
+### Contribution 4: Structured Log Redaction Filter
+
+Recursive secret redaction for JSON-like events with case-insensitive keys, cycle detection and immutable output.
+
+Files:
+- [projects/2026-11-13-log-redaction/tool.py](projects/2026-11-13-log-redaction/tool.py)
+- [projects/2026-11-13-log-redaction/test_tool.py](projects/2026-11-13-log-redaction/test_tool.py)
+- [projects/2026-11-13-log-redaction/README.md](projects/2026-11-13-log-redaction/README.md)
