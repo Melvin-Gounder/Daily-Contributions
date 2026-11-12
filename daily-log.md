@@ -595,3 +595,12 @@ Files:
 - [projects/2026-11-13-finite-state-transducer/tool.py](projects/2026-11-13-finite-state-transducer/tool.py)
 - [projects/2026-11-13-finite-state-transducer/test_tool.py](projects/2026-11-13-finite-state-transducer/test_tool.py)
 - [projects/2026-11-13-finite-state-transducer/README.md](projects/2026-11-13-finite-state-transducer/README.md)
+
+### Contribution 6: SQLite Idempotent Command Handler
+
+Transactional request-key deduplication with payload fingerprints, durable responses and conflict rejection.
+
+Files:
+- [projects/2026-11-13-sqlite-idempotency/tool.py](projects/2026-11-13-sqlite-idempotency/tool.py)
+- [projects/2026-11-13-sqlite-idempotency/test_tool.py](projects/2026-11-13-sqlite-idempotency/test_tool.py)
+- [projects/2026-11-13-sqlite-idempotency/README.md](projects/2026-11-13-sqlite-idempotency/README.md)
