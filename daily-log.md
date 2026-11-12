@@ -568,3 +568,12 @@ Files:
 - [projects/2026-11-13-weighted-quantiles/tool.py](projects/2026-11-13-weighted-quantiles/tool.py)
 - [projects/2026-11-13-weighted-quantiles/test_tool.py](projects/2026-11-13-weighted-quantiles/test_tool.py)
 - [projects/2026-11-13-weighted-quantiles/README.md](projects/2026-11-13-weighted-quantiles/README.md)
+
+### Contribution 3: Bipartite Assignment Matcher
+
+Augmenting-path maximum bipartite matching with deterministic traversal and minimum vertex cover certificate.
+
+Files:
+- [projects/2026-11-13-bipartite-matching/tool.py](projects/2026-11-13-bipartite-matching/tool.py)
+- [projects/2026-11-13-bipartite-matching/test_tool.py](projects/2026-11-13-bipartite-matching/test_tool.py)
+- [projects/2026-11-13-bipartite-matching/README.md](projects/2026-11-13-bipartite-matching/README.md)
