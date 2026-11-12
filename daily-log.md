@@ -604,3 +604,12 @@ Files:
 - [projects/2026-11-13-sqlite-idempotency/tool.py](projects/2026-11-13-sqlite-idempotency/tool.py)
 - [projects/2026-11-13-sqlite-idempotency/test_tool.py](projects/2026-11-13-sqlite-idempotency/test_tool.py)
 - [projects/2026-11-13-sqlite-idempotency/README.md](projects/2026-11-13-sqlite-idempotency/README.md)
+
+### Contribution 7: Internet Checksum Laboratory
+
+RFC 1071 one's-complement checksum calculation and verification for arbitrary byte sequences.
+
+Files:
+- [projects/2026-11-13-network-packet-checksum/tool.py](projects/2026-11-13-network-packet-checksum/tool.py)
+- [projects/2026-11-13-network-packet-checksum/test_tool.py](projects/2026-11-13-network-packet-checksum/test_tool.py)
+- [projects/2026-11-13-network-packet-checksum/README.md](projects/2026-11-13-network-packet-checksum/README.md)
