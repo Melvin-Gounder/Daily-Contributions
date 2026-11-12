@@ -559,3 +559,12 @@ Files:
 - [projects/2026-11-13-edit-distance/tool.py](projects/2026-11-13-edit-distance/tool.py)
 - [projects/2026-11-13-edit-distance/test_tool.py](projects/2026-11-13-edit-distance/test_tool.py)
 - [projects/2026-11-13-edit-distance/README.md](projects/2026-11-13-edit-distance/README.md)
+
+### Contribution 2: Weighted Quantile Calculator
+
+Exact rational weighted quantiles, strict validation, deterministic ordering and boundary behavior.
+
+Files:
+- [projects/2026-11-13-weighted-quantiles/tool.py](projects/2026-11-13-weighted-quantiles/tool.py)
+- [projects/2026-11-13-weighted-quantiles/test_tool.py](projects/2026-11-13-weighted-quantiles/test_tool.py)
+- [projects/2026-11-13-weighted-quantiles/README.md](projects/2026-11-13-weighted-quantiles/README.md)
