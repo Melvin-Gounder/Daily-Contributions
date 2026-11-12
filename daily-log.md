@@ -546,3 +546,16 @@ Files:
 - [projects/2026-11-12-totp-authenticator/totp.py](projects/2026-11-12-totp-authenticator/totp.py)
 - [projects/2026-11-12-totp-authenticator/test_totp.py](projects/2026-11-12-totp-authenticator/test_totp.py)
 - [projects/2026-11-12-totp-authenticator/README.md](projects/2026-11-12-totp-authenticator/README.md)
+
+## 2026-11-13
+
+**Daily target: 9 contributions (randomly selected from 5–10).**
+
+### Contribution 1: Unicode Edit Distance and Alignment
+
+Wagner–Fischer dynamic programming with deterministic insert/delete/substitute alignment and replay.
+
+Files:
+- [projects/2026-11-13-edit-distance/tool.py](projects/2026-11-13-edit-distance/tool.py)
+- [projects/2026-11-13-edit-distance/test_tool.py](projects/2026-11-13-edit-distance/test_tool.py)
+- [projects/2026-11-13-edit-distance/README.md](projects/2026-11-13-edit-distance/README.md)
