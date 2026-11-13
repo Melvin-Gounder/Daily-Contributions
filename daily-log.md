@@ -653,3 +653,12 @@ Files:
 - [projects/2026-11-14-csv-schema-profiler/tool.py](projects/2026-11-14-csv-schema-profiler/tool.py)
 - [projects/2026-11-14-csv-schema-profiler/test_tool.py](projects/2026-11-14-csv-schema-profiler/test_tool.py)
 - [projects/2026-11-14-csv-schema-profiler/README.md](projects/2026-11-14-csv-schema-profiler/README.md)
+
+### Contribution 3: Token Bucket Rate Limiter
+
+Deterministic token-bucket admission control with injectable monotonic clock and retry-after calculations.
+
+Files:
+- [projects/2026-11-14-rate-limit-simulator/tool.py](projects/2026-11-14-rate-limit-simulator/tool.py)
+- [projects/2026-11-14-rate-limit-simulator/test_tool.py](projects/2026-11-14-rate-limit-simulator/test_tool.py)
+- [projects/2026-11-14-rate-limit-simulator/README.md](projects/2026-11-14-rate-limit-simulator/README.md)
