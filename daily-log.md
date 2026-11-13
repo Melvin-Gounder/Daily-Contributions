@@ -671,3 +671,12 @@ Files:
 - [projects/2026-11-14-dag-transitive-reduction/tool.py](projects/2026-11-14-dag-transitive-reduction/tool.py)
 - [projects/2026-11-14-dag-transitive-reduction/test_tool.py](projects/2026-11-14-dag-transitive-reduction/test_tool.py)
 - [projects/2026-11-14-dag-transitive-reduction/README.md](projects/2026-11-14-dag-transitive-reduction/README.md)
+
+### Contribution 5: Size-Based Log Rotation CLI
+
+Rotating UTF-8 log writer with numbered backups, byte-based limits, and explicit oversize rejection.
+
+Files:
+- [projects/2026-11-14-log-file-rotator/tool.py](projects/2026-11-14-log-file-rotator/tool.py)
+- [projects/2026-11-14-log-file-rotator/test_tool.py](projects/2026-11-14-log-file-rotator/test_tool.py)
+- [projects/2026-11-14-log-file-rotator/README.md](projects/2026-11-14-log-file-rotator/README.md)
