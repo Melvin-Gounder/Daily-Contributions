@@ -689,3 +689,12 @@ Files:
 - [projects/2026-11-14-weighted-round-robin/tool.py](projects/2026-11-14-weighted-round-robin/tool.py)
 - [projects/2026-11-14-weighted-round-robin/test_tool.py](projects/2026-11-14-weighted-round-robin/test_tool.py)
 - [projects/2026-11-14-weighted-round-robin/README.md](projects/2026-11-14-weighted-round-robin/README.md)
+
+### Contribution 7: Safe Environment Configuration Resolver
+
+Recursive environment-variable interpolation with defaults, cycle detection, and explicit missing-variable errors.
+
+Files:
+- [projects/2026-11-14-config-env-interpolation/tool.py](projects/2026-11-14-config-env-interpolation/tool.py)
+- [projects/2026-11-14-config-env-interpolation/test_tool.py](projects/2026-11-14-config-env-interpolation/test_tool.py)
+- [projects/2026-11-14-config-env-interpolation/README.md](projects/2026-11-14-config-env-interpolation/README.md)
