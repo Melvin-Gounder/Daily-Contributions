@@ -698,3 +698,12 @@ Files:
 - [projects/2026-11-14-config-env-interpolation/tool.py](projects/2026-11-14-config-env-interpolation/tool.py)
 - [projects/2026-11-14-config-env-interpolation/test_tool.py](projects/2026-11-14-config-env-interpolation/test_tool.py)
 - [projects/2026-11-14-config-env-interpolation/README.md](projects/2026-11-14-config-env-interpolation/README.md)
+
+### Contribution 8: Reproducible Fisher-Yates Shuffle
+
+Seeded Fisher–Yates shuffle, unbiased index selection via rejection sampling, and deterministic replay.
+
+Files:
+- [projects/2026-11-14-deterministic-shuffle/tool.py](projects/2026-11-14-deterministic-shuffle/tool.py)
+- [projects/2026-11-14-deterministic-shuffle/test_tool.py](projects/2026-11-14-deterministic-shuffle/test_tool.py)
+- [projects/2026-11-14-deterministic-shuffle/README.md](projects/2026-11-14-deterministic-shuffle/README.md)
