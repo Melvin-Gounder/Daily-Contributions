@@ -631,3 +631,16 @@ Files:
 - [projects/2026-11-13-topk-stream/tool.py](projects/2026-11-13-topk-stream/tool.py)
 - [projects/2026-11-13-topk-stream/test_tool.py](projects/2026-11-13-topk-stream/test_tool.py)
 - [projects/2026-11-13-topk-stream/README.md](projects/2026-11-13-topk-stream/README.md)
+
+## 2026-11-14
+
+**Daily target: 8 contributions (randomly selected from 5–10).**
+
+### Contribution 1: Disjoint Interval Set
+
+Normalized half-open integer interval unions, intersection, subtraction, and membership.
+
+Files:
+- [projects/2026-11-14-interval-set/tool.py](projects/2026-11-14-interval-set/tool.py)
+- [projects/2026-11-14-interval-set/test_tool.py](projects/2026-11-14-interval-set/test_tool.py)
+- [projects/2026-11-14-interval-set/README.md](projects/2026-11-14-interval-set/README.md)
