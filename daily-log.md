@@ -662,3 +662,12 @@ Files:
 - [projects/2026-11-14-rate-limit-simulator/tool.py](projects/2026-11-14-rate-limit-simulator/tool.py)
 - [projects/2026-11-14-rate-limit-simulator/test_tool.py](projects/2026-11-14-rate-limit-simulator/test_tool.py)
 - [projects/2026-11-14-rate-limit-simulator/README.md](projects/2026-11-14-rate-limit-simulator/README.md)
+
+### Contribution 4: DAG Transitive Reduction
+
+Removes redundant directed edges while preserving reachability; rejects cyclic input.
+
+Files:
+- [projects/2026-11-14-dag-transitive-reduction/tool.py](projects/2026-11-14-dag-transitive-reduction/tool.py)
+- [projects/2026-11-14-dag-transitive-reduction/test_tool.py](projects/2026-11-14-dag-transitive-reduction/test_tool.py)
+- [projects/2026-11-14-dag-transitive-reduction/README.md](projects/2026-11-14-dag-transitive-reduction/README.md)
