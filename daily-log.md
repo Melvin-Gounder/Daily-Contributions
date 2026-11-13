@@ -644,3 +644,12 @@ Files:
 - [projects/2026-11-14-interval-set/tool.py](projects/2026-11-14-interval-set/tool.py)
 - [projects/2026-11-14-interval-set/test_tool.py](projects/2026-11-14-interval-set/test_tool.py)
 - [projects/2026-11-14-interval-set/README.md](projects/2026-11-14-interval-set/README.md)
+
+### Contribution 2: Streaming CSV Schema Profiler
+
+Incremental CSV column statistics, null counts, numeric inference, and bounded distinct-value sampling.
+
+Files:
+- [projects/2026-11-14-csv-schema-profiler/tool.py](projects/2026-11-14-csv-schema-profiler/tool.py)
+- [projects/2026-11-14-csv-schema-profiler/test_tool.py](projects/2026-11-14-csv-schema-profiler/test_tool.py)
+- [projects/2026-11-14-csv-schema-profiler/README.md](projects/2026-11-14-csv-schema-profiler/README.md)
