@@ -680,3 +680,12 @@ Files:
 - [projects/2026-11-14-log-file-rotator/tool.py](projects/2026-11-14-log-file-rotator/tool.py)
 - [projects/2026-11-14-log-file-rotator/test_tool.py](projects/2026-11-14-log-file-rotator/test_tool.py)
 - [projects/2026-11-14-log-file-rotator/README.md](projects/2026-11-14-log-file-rotator/README.md)
+
+### Contribution 6: Smooth Weighted Round Robin
+
+Smooth weighted scheduling with deterministic tie-breaking and runtime weight updates.
+
+Files:
+- [projects/2026-11-14-weighted-round-robin/tool.py](projects/2026-11-14-weighted-round-robin/tool.py)
+- [projects/2026-11-14-weighted-round-robin/test_tool.py](projects/2026-11-14-weighted-round-robin/test_tool.py)
+- [projects/2026-11-14-weighted-round-robin/README.md](projects/2026-11-14-weighted-round-robin/README.md)
