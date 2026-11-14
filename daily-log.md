@@ -729,3 +729,12 @@ Files:
 - [projects/2026-11-15-fenwick-tree/tool.py](projects/2026-11-15-fenwick-tree/tool.py)
 - [projects/2026-11-15-fenwick-tree/test_tool.py](projects/2026-11-15-fenwick-tree/test_tool.py)
 - [projects/2026-11-15-fenwick-tree/README.md](projects/2026-11-15-fenwick-tree/README.md)
+
+### Contribution 3: DNS Zone Record Linter
+
+Offline DNS record validation for A, AAAA, CNAME, MX and TXT, including conflicting CNAME detection.
+
+Files:
+- [projects/2026-11-15-dns-zone-linter/tool.py](projects/2026-11-15-dns-zone-linter/tool.py)
+- [projects/2026-11-15-dns-zone-linter/test_tool.py](projects/2026-11-15-dns-zone-linter/test_tool.py)
+- [projects/2026-11-15-dns-zone-linter/README.md](projects/2026-11-15-dns-zone-linter/README.md)
