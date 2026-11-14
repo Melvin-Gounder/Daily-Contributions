@@ -756,3 +756,12 @@ Files:
 - [projects/2026-11-15-csv-pseudonymizer/tool.py](projects/2026-11-15-csv-pseudonymizer/tool.py)
 - [projects/2026-11-15-csv-pseudonymizer/test_tool.py](projects/2026-11-15-csv-pseudonymizer/test_tool.py)
 - [projects/2026-11-15-csv-pseudonymizer/README.md](projects/2026-11-15-csv-pseudonymizer/README.md)
+
+### Contribution 6: Disk Seek Scheduling Simulator
+
+FCFS, SSTF and SCAN scheduling with total head movement, ordering and bounds validation.
+
+Files:
+- [projects/2026-11-15-disk-scheduling/tool.py](projects/2026-11-15-disk-scheduling/tool.py)
+- [projects/2026-11-15-disk-scheduling/test_tool.py](projects/2026-11-15-disk-scheduling/test_tool.py)
+- [projects/2026-11-15-disk-scheduling/README.md](projects/2026-11-15-disk-scheduling/README.md)
