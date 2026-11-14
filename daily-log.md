@@ -783,3 +783,12 @@ Files:
 - [projects/2026-11-15-graph-bridges/tool.py](projects/2026-11-15-graph-bridges/tool.py)
 - [projects/2026-11-15-graph-bridges/test_tool.py](projects/2026-11-15-graph-bridges/test_tool.py)
 - [projects/2026-11-15-graph-bridges/README.md](projects/2026-11-15-graph-bridges/README.md)
+
+### Contribution 9: SQLite Leased Job Queue
+
+Durable queue with atomic claims, visibility timeouts, acknowledgements and expired-lease recovery.
+
+Files:
+- [projects/2026-11-15-sqlite-job-queue/tool.py](projects/2026-11-15-sqlite-job-queue/tool.py)
+- [projects/2026-11-15-sqlite-job-queue/test_tool.py](projects/2026-11-15-sqlite-job-queue/test_tool.py)
+- [projects/2026-11-15-sqlite-job-queue/README.md](projects/2026-11-15-sqlite-job-queue/README.md)
