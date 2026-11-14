@@ -774,3 +774,12 @@ Files:
 - [projects/2026-11-15-json-merge-patch/tool.py](projects/2026-11-15-json-merge-patch/tool.py)
 - [projects/2026-11-15-json-merge-patch/test_tool.py](projects/2026-11-15-json-merge-patch/test_tool.py)
 - [projects/2026-11-15-json-merge-patch/README.md](projects/2026-11-15-json-merge-patch/README.md)
+
+### Contribution 8: Graph Bridges and Articulation Points
+
+Tarjan low-link traversal for critical undirected edges and vertices across disconnected graphs.
+
+Files:
+- [projects/2026-11-15-graph-bridges/tool.py](projects/2026-11-15-graph-bridges/tool.py)
+- [projects/2026-11-15-graph-bridges/test_tool.py](projects/2026-11-15-graph-bridges/test_tool.py)
+- [projects/2026-11-15-graph-bridges/README.md](projects/2026-11-15-graph-bridges/README.md)
