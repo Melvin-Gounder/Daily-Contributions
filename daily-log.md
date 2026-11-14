@@ -738,3 +738,12 @@ Files:
 - [projects/2026-11-15-dns-zone-linter/tool.py](projects/2026-11-15-dns-zone-linter/tool.py)
 - [projects/2026-11-15-dns-zone-linter/test_tool.py](projects/2026-11-15-dns-zone-linter/test_tool.py)
 - [projects/2026-11-15-dns-zone-linter/README.md](projects/2026-11-15-dns-zone-linter/README.md)
+
+### Contribution 4: Markov Chain Distribution Simulator
+
+Finite-state transition matrices, probability validation, distribution evolution and convergence estimates.
+
+Files:
+- [projects/2026-11-15-markov-chain/tool.py](projects/2026-11-15-markov-chain/tool.py)
+- [projects/2026-11-15-markov-chain/test_tool.py](projects/2026-11-15-markov-chain/test_tool.py)
+- [projects/2026-11-15-markov-chain/README.md](projects/2026-11-15-markov-chain/README.md)
