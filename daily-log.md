@@ -720,3 +720,12 @@ Files:
 - [projects/2026-11-15-vector-clocks/tool.py](projects/2026-11-15-vector-clocks/tool.py)
 - [projects/2026-11-15-vector-clocks/test_tool.py](projects/2026-11-15-vector-clocks/test_tool.py)
 - [projects/2026-11-15-vector-clocks/README.md](projects/2026-11-15-vector-clocks/README.md)
+
+### Contribution 2: Fenwick Tree Range-Sum Engine
+
+Efficient mutable prefix sums, point updates and inclusive range queries with logarithmic operations.
+
+Files:
+- [projects/2026-11-15-fenwick-tree/tool.py](projects/2026-11-15-fenwick-tree/tool.py)
+- [projects/2026-11-15-fenwick-tree/test_tool.py](projects/2026-11-15-fenwick-tree/test_tool.py)
+- [projects/2026-11-15-fenwick-tree/README.md](projects/2026-11-15-fenwick-tree/README.md)
