@@ -747,3 +747,12 @@ Files:
 - [projects/2026-11-15-markov-chain/tool.py](projects/2026-11-15-markov-chain/tool.py)
 - [projects/2026-11-15-markov-chain/test_tool.py](projects/2026-11-15-markov-chain/test_tool.py)
 - [projects/2026-11-15-markov-chain/README.md](projects/2026-11-15-markov-chain/README.md)
+
+### Contribution 5: HMAC CSV Pseudonymization CLI
+
+Streaming CSV pseudonyms using keyed SHA-256, stable joins and configurable protected columns.
+
+Files:
+- [projects/2026-11-15-csv-pseudonymizer/tool.py](projects/2026-11-15-csv-pseudonymizer/tool.py)
+- [projects/2026-11-15-csv-pseudonymizer/test_tool.py](projects/2026-11-15-csv-pseudonymizer/test_tool.py)
+- [projects/2026-11-15-csv-pseudonymizer/README.md](projects/2026-11-15-csv-pseudonymizer/README.md)
