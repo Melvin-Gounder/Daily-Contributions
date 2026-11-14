@@ -765,3 +765,12 @@ Files:
 - [projects/2026-11-15-disk-scheduling/tool.py](projects/2026-11-15-disk-scheduling/tool.py)
 - [projects/2026-11-15-disk-scheduling/test_tool.py](projects/2026-11-15-disk-scheduling/test_tool.py)
 - [projects/2026-11-15-disk-scheduling/README.md](projects/2026-11-15-disk-scheduling/README.md)
+
+### Contribution 7: RFC 7396 JSON Merge Patch
+
+Standards-based JSON object merge patching with deletion semantics and immutable inputs.
+
+Files:
+- [projects/2026-11-15-json-merge-patch/tool.py](projects/2026-11-15-json-merge-patch/tool.py)
+- [projects/2026-11-15-json-merge-patch/test_tool.py](projects/2026-11-15-json-merge-patch/test_tool.py)
+- [projects/2026-11-15-json-merge-patch/README.md](projects/2026-11-15-json-merge-patch/README.md)
