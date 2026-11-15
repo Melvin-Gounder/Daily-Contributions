@@ -805,3 +805,12 @@ Files:
 - [projects/2026-11-16-reservoir-sampling/tool.py](projects/2026-11-16-reservoir-sampling/tool.py)
 - [projects/2026-11-16-reservoir-sampling/test_tool.py](projects/2026-11-16-reservoir-sampling/test_tool.py)
 - [projects/2026-11-16-reservoir-sampling/README.md](projects/2026-11-16-reservoir-sampling/README.md)
+
+### Contribution 2: Lazy Segment Tree for Range Updates
+
+Logarithmic range-add and range-sum operations with lazy propagation, input validation and deterministic tests.
+
+Files:
+- [projects/2026-11-16-segment-tree/tool.py](projects/2026-11-16-segment-tree/tool.py)
+- [projects/2026-11-16-segment-tree/test_tool.py](projects/2026-11-16-segment-tree/test_tool.py)
+- [projects/2026-11-16-segment-tree/README.md](projects/2026-11-16-segment-tree/README.md)
