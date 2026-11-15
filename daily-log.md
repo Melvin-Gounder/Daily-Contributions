@@ -841,3 +841,12 @@ Files:
 - [projects/2026-11-16-bankers-algorithm/tool.py](projects/2026-11-16-bankers-algorithm/tool.py)
 - [projects/2026-11-16-bankers-algorithm/test_tool.py](projects/2026-11-16-bankers-algorithm/test_tool.py)
 - [projects/2026-11-16-bankers-algorithm/README.md](projects/2026-11-16-bankers-algorithm/README.md)
+
+### Contribution 6: Memory-Bounded External Merge Sort
+
+External integer sorting CLI using sorted disk runs and heap-based multiway merge, with cleanup and malformed-input checks.
+
+Files:
+- [projects/2026-11-16-external-merge-sort/tool.py](projects/2026-11-16-external-merge-sort/tool.py)
+- [projects/2026-11-16-external-merge-sort/test_tool.py](projects/2026-11-16-external-merge-sort/test_tool.py)
+- [projects/2026-11-16-external-merge-sort/README.md](projects/2026-11-16-external-merge-sort/README.md)
