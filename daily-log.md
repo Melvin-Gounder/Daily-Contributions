@@ -823,3 +823,12 @@ Files:
 - [projects/2026-11-16-consistent-snapshot/tool.py](projects/2026-11-16-consistent-snapshot/tool.py)
 - [projects/2026-11-16-consistent-snapshot/test_tool.py](projects/2026-11-16-consistent-snapshot/test_tool.py)
 - [projects/2026-11-16-consistent-snapshot/README.md](projects/2026-11-16-consistent-snapshot/README.md)
+
+### Contribution 4: Rabin–Karp Multi-Match Search
+
+Rolling-hash substring search with collision verification, overlapping matches, and Unicode-safe character handling.
+
+Files:
+- [projects/2026-11-16-rabin-karp/tool.py](projects/2026-11-16-rabin-karp/tool.py)
+- [projects/2026-11-16-rabin-karp/test_tool.py](projects/2026-11-16-rabin-karp/test_tool.py)
+- [projects/2026-11-16-rabin-karp/README.md](projects/2026-11-16-rabin-karp/README.md)
