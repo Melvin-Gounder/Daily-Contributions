@@ -792,3 +792,16 @@ Files:
 - [projects/2026-11-15-sqlite-job-queue/tool.py](projects/2026-11-15-sqlite-job-queue/tool.py)
 - [projects/2026-11-15-sqlite-job-queue/test_tool.py](projects/2026-11-15-sqlite-job-queue/test_tool.py)
 - [projects/2026-11-15-sqlite-job-queue/README.md](projects/2026-11-15-sqlite-job-queue/README.md)
+
+## 2026-11-16
+
+**Daily target: 6 contributions (uniform pseudorandom draw from 5–10).**
+
+### Contribution 1: Streaming Reservoir Sampler
+
+Uniform k-item sampling from an arbitrarily long stream with injected seeded RNG and reproducible CLI output.
+
+Files:
+- [projects/2026-11-16-reservoir-sampling/tool.py](projects/2026-11-16-reservoir-sampling/tool.py)
+- [projects/2026-11-16-reservoir-sampling/test_tool.py](projects/2026-11-16-reservoir-sampling/test_tool.py)
+- [projects/2026-11-16-reservoir-sampling/README.md](projects/2026-11-16-reservoir-sampling/README.md)
