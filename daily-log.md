@@ -814,3 +814,12 @@ Files:
 - [projects/2026-11-16-segment-tree/tool.py](projects/2026-11-16-segment-tree/tool.py)
 - [projects/2026-11-16-segment-tree/test_tool.py](projects/2026-11-16-segment-tree/test_tool.py)
 - [projects/2026-11-16-segment-tree/README.md](projects/2026-11-16-segment-tree/README.md)
+
+### Contribution 3: MVCC Snapshot Key-Value Store
+
+In-memory multi-version key-value store supporting immutable read snapshots, tombstones, and monotonic revision tracking.
+
+Files:
+- [projects/2026-11-16-consistent-snapshot/tool.py](projects/2026-11-16-consistent-snapshot/tool.py)
+- [projects/2026-11-16-consistent-snapshot/test_tool.py](projects/2026-11-16-consistent-snapshot/test_tool.py)
+- [projects/2026-11-16-consistent-snapshot/README.md](projects/2026-11-16-consistent-snapshot/README.md)
