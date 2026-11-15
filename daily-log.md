@@ -832,3 +832,12 @@ Files:
 - [projects/2026-11-16-rabin-karp/tool.py](projects/2026-11-16-rabin-karp/tool.py)
 - [projects/2026-11-16-rabin-karp/test_tool.py](projects/2026-11-16-rabin-karp/test_tool.py)
 - [projects/2026-11-16-rabin-karp/README.md](projects/2026-11-16-rabin-karp/README.md)
+
+### Contribution 5: Banker's Algorithm Safety Analyzer
+
+Deadlock-avoidance safety checking for multi-resource processes with safe sequences and request simulation.
+
+Files:
+- [projects/2026-11-16-bankers-algorithm/tool.py](projects/2026-11-16-bankers-algorithm/tool.py)
+- [projects/2026-11-16-bankers-algorithm/test_tool.py](projects/2026-11-16-bankers-algorithm/test_tool.py)
+- [projects/2026-11-16-bankers-algorithm/README.md](projects/2026-11-16-bankers-algorithm/README.md)
