@@ -899,3 +899,12 @@ Files:
 - [projects/2026-11-17-token-inverted-index/tool.py](projects/2026-11-17-token-inverted-index/tool.py)
 - [projects/2026-11-17-token-inverted-index/test_tool.py](projects/2026-11-17-token-inverted-index/test_tool.py)
 - [projects/2026-11-17-token-inverted-index/README.md](projects/2026-11-17-token-inverted-index/README.md)
+
+### Contribution 6: Dependency-Free CSV Reconciliation
+
+Compare keyed CSV snapshots to report inserted, removed, and modified rows, rejecting duplicate keys and schema drift.
+
+Files:
+- [projects/2026-11-17-csv-reconciliation/tool.py](projects/2026-11-17-csv-reconciliation/tool.py)
+- [projects/2026-11-17-csv-reconciliation/test_tool.py](projects/2026-11-17-csv-reconciliation/test_tool.py)
+- [projects/2026-11-17-csv-reconciliation/README.md](projects/2026-11-17-csv-reconciliation/README.md)
