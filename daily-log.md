@@ -881,3 +881,12 @@ Files:
 - [projects/2026-11-17-http-preconditions/tool.py](projects/2026-11-17-http-preconditions/tool.py)
 - [projects/2026-11-17-http-preconditions/test_tool.py](projects/2026-11-17-http-preconditions/test_tool.py)
 - [projects/2026-11-17-http-preconditions/README.md](projects/2026-11-17-http-preconditions/README.md)
+
+### Contribution 4: Streaming Online Variance Calculator
+
+Numerically stable Welford variance, parallel-statistics merging, sample/population estimates, and CLI input validation.
+
+Files:
+- [projects/2026-11-17-online-variance/tool.py](projects/2026-11-17-online-variance/tool.py)
+- [projects/2026-11-17-online-variance/test_tool.py](projects/2026-11-17-online-variance/test_tool.py)
+- [projects/2026-11-17-online-variance/README.md](projects/2026-11-17-online-variance/README.md)
