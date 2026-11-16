@@ -908,3 +908,12 @@ Files:
 - [projects/2026-11-17-csv-reconciliation/tool.py](projects/2026-11-17-csv-reconciliation/tool.py)
 - [projects/2026-11-17-csv-reconciliation/test_tool.py](projects/2026-11-17-csv-reconciliation/test_tool.py)
 - [projects/2026-11-17-csv-reconciliation/README.md](projects/2026-11-17-csv-reconciliation/README.md)
+
+### Contribution 7: Bounded Concurrent Work Queue
+
+Threaded bounded worker pool with ordered results, exception capture, graceful shutdown, and no third-party dependencies.
+
+Files:
+- [projects/2026-11-17-thread-work-queue/tool.py](projects/2026-11-17-thread-work-queue/tool.py)
+- [projects/2026-11-17-thread-work-queue/test_tool.py](projects/2026-11-17-thread-work-queue/test_tool.py)
+- [projects/2026-11-17-thread-work-queue/README.md](projects/2026-11-17-thread-work-queue/README.md)
