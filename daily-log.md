@@ -890,3 +890,12 @@ Files:
 - [projects/2026-11-17-online-variance/tool.py](projects/2026-11-17-online-variance/tool.py)
 - [projects/2026-11-17-online-variance/test_tool.py](projects/2026-11-17-online-variance/test_tool.py)
 - [projects/2026-11-17-online-variance/README.md](projects/2026-11-17-online-variance/README.md)
+
+### Contribution 5: Unicode-Aware Text Token Index
+
+Inverted positional index with phrase search, Boolean AND queries, document replacement, and deterministic results.
+
+Files:
+- [projects/2026-11-17-token-inverted-index/tool.py](projects/2026-11-17-token-inverted-index/tool.py)
+- [projects/2026-11-17-token-inverted-index/test_tool.py](projects/2026-11-17-token-inverted-index/test_tool.py)
+- [projects/2026-11-17-token-inverted-index/README.md](projects/2026-11-17-token-inverted-index/README.md)
