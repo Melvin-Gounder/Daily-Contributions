@@ -872,3 +872,12 @@ Files:
 - [projects/2026-11-17-tcp-frame-decoder/tool.py](projects/2026-11-17-tcp-frame-decoder/tool.py)
 - [projects/2026-11-17-tcp-frame-decoder/test_tool.py](projects/2026-11-17-tcp-frame-decoder/test_tool.py)
 - [projects/2026-11-17-tcp-frame-decoder/README.md](projects/2026-11-17-tcp-frame-decoder/README.md)
+
+### Contribution 3: HTTP Conditional Request Evaluator
+
+RFC-inspired If-Match, If-None-Match and method-dependent 304/412 decisions with strong versus weak ETag comparison.
+
+Files:
+- [projects/2026-11-17-http-preconditions/tool.py](projects/2026-11-17-http-preconditions/tool.py)
+- [projects/2026-11-17-http-preconditions/test_tool.py](projects/2026-11-17-http-preconditions/test_tool.py)
+- [projects/2026-11-17-http-preconditions/README.md](projects/2026-11-17-http-preconditions/README.md)
