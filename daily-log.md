@@ -863,3 +863,12 @@ Files:
 - [projects/2026-11-17-calendar-index/tool.py](projects/2026-11-17-calendar-index/tool.py)
 - [projects/2026-11-17-calendar-index/test_tool.py](projects/2026-11-17-calendar-index/test_tool.py)
 - [projects/2026-11-17-calendar-index/README.md](projects/2026-11-17-calendar-index/README.md)
+
+### Contribution 2: Length-Prefixed TCP Frame Decoder
+
+Incremental binary protocol framing with maximum-size enforcement, fragmented packet handling, and EOF truncation checks.
+
+Files:
+- [projects/2026-11-17-tcp-frame-decoder/tool.py](projects/2026-11-17-tcp-frame-decoder/tool.py)
+- [projects/2026-11-17-tcp-frame-decoder/test_tool.py](projects/2026-11-17-tcp-frame-decoder/test_tool.py)
+- [projects/2026-11-17-tcp-frame-decoder/README.md](projects/2026-11-17-tcp-frame-decoder/README.md)
