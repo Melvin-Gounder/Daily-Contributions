@@ -850,3 +850,16 @@ Files:
 - [projects/2026-11-16-external-merge-sort/tool.py](projects/2026-11-16-external-merge-sort/tool.py)
 - [projects/2026-11-16-external-merge-sort/test_tool.py](projects/2026-11-16-external-merge-sort/test_tool.py)
 - [projects/2026-11-16-external-merge-sort/README.md](projects/2026-11-16-external-merge-sort/README.md)
+
+## 2026-11-17
+
+**Daily target: 7 contributions (uniform random draw from 5–10).**
+
+### Contribution 1: Sorted Calendar Conflict Index
+
+Ordered half-open bookings with overlap checks, cancellation, and minimum-duration free-slot discovery.
+
+Files:
+- [projects/2026-11-17-calendar-index/tool.py](projects/2026-11-17-calendar-index/tool.py)
+- [projects/2026-11-17-calendar-index/test_tool.py](projects/2026-11-17-calendar-index/test_tool.py)
+- [projects/2026-11-17-calendar-index/README.md](projects/2026-11-17-calendar-index/README.md)
