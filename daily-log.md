@@ -975,3 +975,12 @@ Files:
 - [projects/2026-11-18-consistent-hash-partition/tool.py](projects/2026-11-18-consistent-hash-partition/tool.py)
 - [projects/2026-11-18-consistent-hash-partition/test_tool.py](projects/2026-11-18-consistent-hash-partition/test_tool.py)
 - [projects/2026-11-18-consistent-hash-partition/README.md](projects/2026-11-18-consistent-hash-partition/README.md)
+
+### Contribution 7: Safe Arithmetic Expression Parser
+
+Recursive-descent expression evaluator with precedence, unary signs, parentheses, and explicit errors.
+
+Files:
+- [projects/2026-11-18-expression-parser/tool.py](projects/2026-11-18-expression-parser/tool.py)
+- [projects/2026-11-18-expression-parser/test_tool.py](projects/2026-11-18-expression-parser/test_tool.py)
+- [projects/2026-11-18-expression-parser/README.md](projects/2026-11-18-expression-parser/README.md)
