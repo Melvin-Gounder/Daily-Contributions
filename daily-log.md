@@ -1002,3 +1002,12 @@ Files:
 - [projects/2026-11-18-base64-stream/tool.py](projects/2026-11-18-base64-stream/tool.py)
 - [projects/2026-11-18-base64-stream/test_tool.py](projects/2026-11-18-base64-stream/test_tool.py)
 - [projects/2026-11-18-base64-stream/README.md](projects/2026-11-18-base64-stream/README.md)
+
+### Contribution 10: Matrix Chain Multiplication Optimizer
+
+Dynamic programming for minimum scalar multiplications with parenthesization reconstruction and dimension validation.
+
+Files:
+- [projects/2026-11-18-matrix-chain/tool.py](projects/2026-11-18-matrix-chain/tool.py)
+- [projects/2026-11-18-matrix-chain/test_tool.py](projects/2026-11-18-matrix-chain/test_tool.py)
+- [projects/2026-11-18-matrix-chain/README.md](projects/2026-11-18-matrix-chain/README.md)
