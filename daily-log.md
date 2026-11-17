@@ -984,3 +984,12 @@ Files:
 - [projects/2026-11-18-expression-parser/tool.py](projects/2026-11-18-expression-parser/tool.py)
 - [projects/2026-11-18-expression-parser/test_tool.py](projects/2026-11-18-expression-parser/test_tool.py)
 - [projects/2026-11-18-expression-parser/README.md](projects/2026-11-18-expression-parser/README.md)
+
+### Contribution 8: RFC 6901 JSON Pointer Resolver
+
+JSON Pointer path navigation with escape decoding, strict list indices, and error handling.
+
+Files:
+- [projects/2026-11-18-json-pointer/tool.py](projects/2026-11-18-json-pointer/tool.py)
+- [projects/2026-11-18-json-pointer/test_tool.py](projects/2026-11-18-json-pointer/test_tool.py)
+- [projects/2026-11-18-json-pointer/README.md](projects/2026-11-18-json-pointer/README.md)
