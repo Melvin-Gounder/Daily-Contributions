@@ -993,3 +993,12 @@ Files:
 - [projects/2026-11-18-json-pointer/tool.py](projects/2026-11-18-json-pointer/tool.py)
 - [projects/2026-11-18-json-pointer/test_tool.py](projects/2026-11-18-json-pointer/test_tool.py)
 - [projects/2026-11-18-json-pointer/README.md](projects/2026-11-18-json-pointer/README.md)
+
+### Contribution 9: Streaming Base64 Encoder and Decoder
+
+Chunk-safe binary Base64 encoding/decoding with strict validation and file-based CLI.
+
+Files:
+- [projects/2026-11-18-base64-stream/tool.py](projects/2026-11-18-base64-stream/tool.py)
+- [projects/2026-11-18-base64-stream/test_tool.py](projects/2026-11-18-base64-stream/test_tool.py)
+- [projects/2026-11-18-base64-stream/README.md](projects/2026-11-18-base64-stream/README.md)
