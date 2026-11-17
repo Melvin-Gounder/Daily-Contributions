@@ -917,3 +917,16 @@ Files:
 - [projects/2026-11-17-thread-work-queue/tool.py](projects/2026-11-17-thread-work-queue/tool.py)
 - [projects/2026-11-17-thread-work-queue/test_tool.py](projects/2026-11-17-thread-work-queue/test_tool.py)
 - [projects/2026-11-17-thread-work-queue/README.md](projects/2026-11-17-thread-work-queue/README.md)
+
+## 2026-11-18
+
+**Daily target: 10 contributions (uniform cryptographic random draw from 5–10).**
+
+### Contribution 1: Bellman–Ford Route Analyzer
+
+Shortest paths with negative edges, predecessor reconstruction, and reachable negative-cycle detection.
+
+Files:
+- [projects/2026-11-18-bellman-ford/tool.py](projects/2026-11-18-bellman-ford/tool.py)
+- [projects/2026-11-18-bellman-ford/test_tool.py](projects/2026-11-18-bellman-ford/test_tool.py)
+- [projects/2026-11-18-bellman-ford/README.md](projects/2026-11-18-bellman-ford/README.md)
