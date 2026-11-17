@@ -957,3 +957,12 @@ Files:
 - [projects/2026-11-18-merkle-proof/tool.py](projects/2026-11-18-merkle-proof/tool.py)
 - [projects/2026-11-18-merkle-proof/test_tool.py](projects/2026-11-18-merkle-proof/test_tool.py)
 - [projects/2026-11-18-merkle-proof/README.md](projects/2026-11-18-merkle-proof/README.md)
+
+### Contribution 5: LFU Cache with LRU Tie-Breaking
+
+Expected constant-time bounded cache with frequency-based eviction and recency tie-breaking.
+
+Files:
+- [projects/2026-11-18-lfu-cache/tool.py](projects/2026-11-18-lfu-cache/tool.py)
+- [projects/2026-11-18-lfu-cache/test_tool.py](projects/2026-11-18-lfu-cache/test_tool.py)
+- [projects/2026-11-18-lfu-cache/README.md](projects/2026-11-18-lfu-cache/README.md)
