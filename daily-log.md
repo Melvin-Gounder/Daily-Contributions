@@ -939,3 +939,12 @@ Files:
 - [projects/2026-11-18-bloom-filter/tool.py](projects/2026-11-18-bloom-filter/tool.py)
 - [projects/2026-11-18-bloom-filter/test_tool.py](projects/2026-11-18-bloom-filter/test_tool.py)
 - [projects/2026-11-18-bloom-filter/README.md](projects/2026-11-18-bloom-filter/README.md)
+
+### Contribution 3: Recursive JSON Contract Validator
+
+Dependency-free validation of nested JSON objects, arrays, required keys, numeric bounds, and path-specific errors.
+
+Files:
+- [projects/2026-11-18-json-contract-validator/tool.py](projects/2026-11-18-json-contract-validator/tool.py)
+- [projects/2026-11-18-json-contract-validator/test_tool.py](projects/2026-11-18-json-contract-validator/test_tool.py)
+- [projects/2026-11-18-json-contract-validator/README.md](projects/2026-11-18-json-contract-validator/README.md)
