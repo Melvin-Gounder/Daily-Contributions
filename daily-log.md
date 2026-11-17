@@ -966,3 +966,12 @@ Files:
 - [projects/2026-11-18-lfu-cache/tool.py](projects/2026-11-18-lfu-cache/tool.py)
 - [projects/2026-11-18-lfu-cache/test_tool.py](projects/2026-11-18-lfu-cache/test_tool.py)
 - [projects/2026-11-18-lfu-cache/README.md](projects/2026-11-18-lfu-cache/README.md)
+
+### Contribution 6: Jump Consistent Hash Partitioning
+
+Constant-space stable partition assignment with deterministic 64-bit jump consistent hashing.
+
+Files:
+- [projects/2026-11-18-consistent-hash-partition/tool.py](projects/2026-11-18-consistent-hash-partition/tool.py)
+- [projects/2026-11-18-consistent-hash-partition/test_tool.py](projects/2026-11-18-consistent-hash-partition/test_tool.py)
+- [projects/2026-11-18-consistent-hash-partition/README.md](projects/2026-11-18-consistent-hash-partition/README.md)
