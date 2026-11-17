@@ -948,3 +948,12 @@ Files:
 - [projects/2026-11-18-json-contract-validator/tool.py](projects/2026-11-18-json-contract-validator/tool.py)
 - [projects/2026-11-18-json-contract-validator/test_tool.py](projects/2026-11-18-json-contract-validator/test_tool.py)
 - [projects/2026-11-18-json-contract-validator/README.md](projects/2026-11-18-json-contract-validator/README.md)
+
+### Contribution 4: Merkle Inclusion Proof Toolkit
+
+Domain-separated SHA-256 Merkle roots and verifiable inclusion proofs.
+
+Files:
+- [projects/2026-11-18-merkle-proof/tool.py](projects/2026-11-18-merkle-proof/tool.py)
+- [projects/2026-11-18-merkle-proof/test_tool.py](projects/2026-11-18-merkle-proof/test_tool.py)
+- [projects/2026-11-18-merkle-proof/README.md](projects/2026-11-18-merkle-proof/README.md)
