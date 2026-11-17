@@ -930,3 +930,12 @@ Files:
 - [projects/2026-11-18-bellman-ford/tool.py](projects/2026-11-18-bellman-ford/tool.py)
 - [projects/2026-11-18-bellman-ford/test_tool.py](projects/2026-11-18-bellman-ford/test_tool.py)
 - [projects/2026-11-18-bellman-ford/README.md](projects/2026-11-18-bellman-ford/README.md)
+
+### Contribution 2: Bloom Filter Membership Laboratory
+
+Configurable probabilistic set membership with deterministic double hashing, capacity estimates, and serialization.
+
+Files:
+- [projects/2026-11-18-bloom-filter/tool.py](projects/2026-11-18-bloom-filter/tool.py)
+- [projects/2026-11-18-bloom-filter/test_tool.py](projects/2026-11-18-bloom-filter/test_tool.py)
+- [projects/2026-11-18-bloom-filter/README.md](projects/2026-11-18-bloom-filter/README.md)
